@@ -26,7 +26,7 @@ Homework 07 – Product Recommendation
 - Analytic tool
 
 Homework 08 – Campaign Response Model
-- Python program + Analytic tool
+- Python program
 - Analytic tool
 
 Homework 09 – A/B Testing
