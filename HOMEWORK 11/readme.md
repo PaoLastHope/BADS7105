@@ -1,5 +1,5 @@
 Voice of customer analysis
 
-<img src=“HOMEWORK 11/1.PNG)” raw=true alt=“Subject Pronouns” style=“margin-right: 10px;” />
+❮img src="HOMEWORK%2011/1.PNG"❯
 
 ![Screenshot](HOMEWORK 11/1.PNG)
