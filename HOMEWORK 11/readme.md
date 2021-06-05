@@ -1,13 +1,12 @@
-Voice of customer analysis
-
-Data Overview
+<h1>Voice of customer analysis</h1>
 
 <p align="left">
 <img src="https://cdn.iconscout.com/icon/free/png-512/microsoft-excel-2-569282.png"
      width="100" height="100" >
-</p>
 Data file : CustomerReviews.csv
+</p>
 
+<h2>Data Overview</h2>
 <p align="center">
 <img align="left" src="https://github.com/PaoLastHope/BADS7105/blob/80d88a767b704e97dc27f3a91f350d96a3d3aa71/HOMEWORK%2011/images/1.PNG">
 </p>
