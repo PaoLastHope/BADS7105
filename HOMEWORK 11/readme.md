@@ -36,4 +36,9 @@ Data file : CustomerReviews.csv
 <img align="center" src="https://github.com/PaoLastHope/BADS7105/blob/80d88a767b704e97dc27f3a91f350d96a3d3aa71/HOMEWORK%2011/images/6.PNG"
      width="460" height="300" >
 </p>
+
+<p align="center">
+<img align="center" src="https://github.com/PaoLastHope/BADS7105/blob/80d88a767b704e97dc27f3a91f350d96a3d3aa71/HOMEWORK%2011/images/7.PNG"
+     width="460" height="300" >
+</p>
 <br />
