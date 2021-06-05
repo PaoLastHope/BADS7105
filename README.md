@@ -1,5 +1,4 @@
-# BADS7105
-Customer Analysis
+# BADS7105 Customer Analysis
 
 Homework 01 – Analysis of customer behaviors
 - Python program
