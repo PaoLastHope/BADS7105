@@ -38,6 +38,6 @@ Data file : CustomerReviews.csv
 </p>
 
 <p align="center">
-<img align="center" src="https://github.com/PaoLastHope/BADS7105/blob/80d88a767b704e97dc27f3a91f350d96a3d3aa71/HOMEWORK%2011/images/7.PNG">
+<img align="center" src="https://github.com/PaoLastHope/BADS7105/blob/a0120c6cef4143076fcfdfda30d7d9d730a967ca/HOMEWORK%2011/images/7.PNG">
 </p>
 <br />
