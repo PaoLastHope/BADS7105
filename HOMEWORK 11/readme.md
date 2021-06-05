@@ -15,17 +15,17 @@ Data file : CustomerReviews.csv
 </p>
 <br />
 <h2>Data Overview</h2>
+
 <p align="center">
-<img align="center" src="https://github.com/PaoLastHope/BADS7105/blob/80d88a767b704e97dc27f3a91f350d96a3d3aa71/HOMEWORK%2011/images/3.PNG" width="460" height="300" >
+<img src="https://github.com/PaoLastHope/BADS7105/blob/80d88a767b704e97dc27f3a91f350d96a3d3aa71/HOMEWORK%2011/images/3.PNG" width="460" height="300" >
 
-<img align="center" src="https://github.com/PaoLastHope/BADS7105/blob/80d88a767b704e97dc27f3a91f350d96a3d3aa71/HOMEWORK%2011/images/4.PNG" width="460" height="300" >
+<img src="https://github.com/PaoLastHope/BADS7105/blob/80d88a767b704e97dc27f3a91f350d96a3d3aa71/HOMEWORK%2011/images/4.PNG" width="460" height="300" >
 
-<img align="center" src="https://github.com/PaoLastHope/BADS7105/blob/80d88a767b704e97dc27f3a91f350d96a3d3aa71/HOMEWORK%2011/images/5.PNG" width="460" height="300" >
+<img src="https://github.com/PaoLastHope/BADS7105/blob/80d88a767b704e97dc27f3a91f350d96a3d3aa71/HOMEWORK%2011/images/5.PNG" width="460" height="300" >
 
-<img align="center" src="https://github.com/PaoLastHope/BADS7105/blob/80d88a767b704e97dc27f3a91f350d96a3d3aa71/HOMEWORK%2011/images/6.PNG"
+<img src="https://github.com/PaoLastHope/BADS7105/blob/80d88a767b704e97dc27f3a91f350d96a3d3aa71/HOMEWORK%2011/images/6.PNG"
      width="460" height="300" >
-</p>
-
-<img align="center" src="https://github.com/PaoLastHope/BADS7105/blob/a0120c6cef4143076fcfdfda30d7d9d730a967ca/HOMEWORK%2011/images/7.PNG">
+     
+<img  src="https://github.com/PaoLastHope/BADS7105/blob/a0120c6cef4143076fcfdfda30d7d9d730a967ca/HOMEWORK%2011/images/7.PNG">
 </p>
 <br />
