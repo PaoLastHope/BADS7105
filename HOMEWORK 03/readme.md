@@ -7,7 +7,8 @@ Details   : 732 rows, 8 columns
 </p>
 <br>
 
+<h2>Grouping A day in a life</h2>
 <p align="left">
 <img src="https://github.com/PaoLastHope/BADS7105/blob/31534bf09ab4642b5cfaec2cd92730db8f4e5bb8/HOMEWORK%2003/images/1.PNG"
-     width="800" height="300" >
+     width="600" height="300" >
 </p>
