@@ -4,4 +4,5 @@
 <img src="https://cdn.iconscout.com/icon/free/png-512/microsoft-excel-2-569282.png"
      width="100" height="100" >
 Data file : activities.xlsx
+Details   : 732 rows, 8 columns
 </p>
