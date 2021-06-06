@@ -8,7 +8,7 @@
 Homework 01 – Analysis of customer behaviors
 - Python program
 - Analytic tool
-====================================================================================
+================================================================
 <p align="left">
 <img src="https://www.cabgfx.com/wp-content/uploads/2018/09/jtbd-page-cover-cabgfx.jpeg"
      width="495" height="270" ><br>
