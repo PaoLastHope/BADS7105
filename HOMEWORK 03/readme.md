@@ -13,7 +13,9 @@ Details   : 732 rows, 8 columns
 <img src="https://github.com/PaoLastHope/BADS7105/blob/31534bf09ab4642b5cfaec2cd92730db8f4e5bb8/HOMEWORK%2003/images/1.PNG"
      width="600" height="300" >
 </p>
+
 What I've done...
 - cleasing time data 
 - change date format 01:00:00 PM -> 13:00  
 - edit time into period of 15 min. 11:02 -> 11:00, 11:13 -> 11:15
+- Translate to lowercase Commuting -> commuting
