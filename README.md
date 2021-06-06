@@ -1,5 +1,8 @@
 # BADS7105 Customer Analysis
-
+<p align="left">
+<img src="https://www.smartdatacollective.com/wp-content/uploads/2017/06/customer-behaviour-analysis.jpg"
+     width="150" height="150" >
+</p>
 Homework 01 – Analysis of customer behaviors
 - Python program
 - Analytic tool
