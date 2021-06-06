@@ -39,4 +39,4 @@ What I've done...
 - do grouping most gain of each person
 - select some of pains&gain to set value proposition
 
-Please see attach file <b>summary.xlsx</b>
+Please see attach file <b>activities.xlsx</b>
