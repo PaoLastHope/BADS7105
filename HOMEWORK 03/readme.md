@@ -10,8 +10,7 @@ Details   : 732 rows, 8 columns
 
 <h2>Grouping A day in a life</h2>
 <p align="left">
-<img src="https://github.com/PaoLastHope/BADS7105/blob/31534bf09ab4642b5cfaec2cd92730db8f4e5bb8/HOMEWORK%2003/images/1.PNG"
-     width="600" height="300" >
+<img width="577" alt="Capture" src="https://user-images.githubusercontent.com/5312356/120923807-a8243180-c6fa-11eb-98b9-fe07d4a4085d.PNG">
 </p>
 
 Display cumulative summation of activities
@@ -33,5 +32,11 @@ What I've known...
 - highly rate of changing activity at <b>00:00, 06:00, 08:00, 12:00, 16:00, 18:00, 20:00</b>
 
 <h2>Value Proposition</h2>
+<img width="377" alt="2" src="https://user-images.githubusercontent.com/5312356/120926002-45846300-c705-11eb-8cc6-d4ac64b15d9f.PNG">
+
+What I've done...
+- do grouping most pain of each member
+- do grouping most gain of each person
+- select some of pains&gain to set value proposition
+
 Please see attach file <b>summary.xlsx</b>
-<img width="577" alt="Capture" src="https://user-images.githubusercontent.com/5312356/120923807-a8243180-c6fa-11eb-98b9-fe07d4a4085d.PNG">
