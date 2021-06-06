@@ -14,8 +14,16 @@ Details   : 732 rows, 8 columns
      width="600" height="300" >
 </p>
 
+Display cumulative summation of activities
+
+<p align="left">
+<img src="https://flourish.studio/images/examples/bar-chart-race.jpg"
+     width="600" height="300" >
+</p>
+
 What I've done...
-- cleasing time data 
+- using flourish studio
+- cleasing time data
 - change date format 01:00:00 PM -> 13:00  
 - edit time into period of 15 min. 11:02 -> 11:00, 11:13 -> 11:15
 - Translate to lowercase Commuting -> commuting
