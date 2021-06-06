@@ -14,5 +14,5 @@ Modify code
 - Campaign Response Model - XGBoost Tuning.ipynb
 - Campaign Response Model.ipynb
 
-<b>Fix Features & Fix Technique for better!</b>
+<b>Fix Features & Fix Technique for better score!</b>
   
