@@ -25,6 +25,6 @@ Data file : CustomerReviews.csv
 </p>
 <br />
 
-<h2>Word Count/h2>
+<h2>Word Count</h2>
 <img width="369" alt="8" src="https://user-images.githubusercontent.com/5312356/121017953-0f5be780-c7c8-11eb-93b1-86da47fe472d.PNG">
 - Most word that customer talking about are <b>น้ำ, ทาน, กิน, อร่อย, ดี</b?
