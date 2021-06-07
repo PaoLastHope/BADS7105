@@ -24,3 +24,7 @@ Data file : CustomerReviews.csv
 <img src="https://github.com/PaoLastHope/BADS7105/blob/a0120c6cef4143076fcfdfda30d7d9d730a967ca/HOMEWORK%2011/images/7.PNG">
 </p>
 <br />
+
+<h2>Word Count/h2>
+<img width="369" alt="8" src="https://user-images.githubusercontent.com/5312356/121017953-0f5be780-c7c8-11eb-93b1-86da47fe472d.PNG">
+- Most word that customer talking about are <b>น้ำ, ทาน, กิน, อร่อย, ดี</b?
