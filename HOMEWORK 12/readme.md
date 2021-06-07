@@ -4,7 +4,7 @@
 
 Classify problems
 - Docters have less time to take care each patients
-- The process of health check up take sometimes
+- The process of health check up take times
 - Too much patients in hospital
 - Patients feeling that they have not get a good services from hospital
 - etc...
