@@ -4,9 +4,10 @@
 
 Classify problems
 - Docters have less time to take care each patients
+- The process of health check up take sometimes
 - Too much patients in hospital
 - Patients feeling that they have not get a good services from hospital
--
+- etc...
 
 Service with AI enabled
 - Using AI technology to compute the possibities of causes and disease.
