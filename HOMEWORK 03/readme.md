@@ -29,7 +29,7 @@ What I've done...
 
 What I've known...
 - most activities of members is <b>eating</b>
-- highly rate of changing activity at <b>00:00, 06:00, 08:00, 12:00, 16:00, 18:00, 20:00</b>
+- from observation, highly rate of changing activity at <b>00:00, 06:00, 08:00, 12:00, 16:00, 18:00, 20:00</b>
 
 <h2>Value Proposition</h2>
 <img width="377" alt="2" src="https://user-images.githubusercontent.com/5312356/120926002-45846300-c705-11eb-8cc6-d4ac64b15d9f.PNG">
