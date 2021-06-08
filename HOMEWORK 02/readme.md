@@ -4,13 +4,20 @@
 
 <h2>Situation</h2>
 
+
+
 <h2>Motivation</h2>
+
+
 
 <h2>Barries</h2>
 
 ![barrier](https://user-images.githubusercontent.com/5312356/121166018-eb0d1300-c87a-11eb-9aa3-0fbbafb39bc8.png)
 
 <h2>Gain</h2>
+
+![gain](https://user-images.githubusercontent.com/5312356/121171072-3aa20d80-c880-11eb-8f5b-0a53da063827.png)
+
 
 <h2>Rescue</h2>
 
