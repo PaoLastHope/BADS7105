@@ -20,4 +20,9 @@ Data file : CustomerReviews.csv
 
 <h2>Word Count</h2>
 <img width="369" alt="8" src="https://user-images.githubusercontent.com/5312356/121017953-0f5be780-c7c8-11eb-93b1-86da47fe472d.PNG">
-- Most word that customer talking about are <b>น้ำ, ทาน, กิน, อร่อย, ดี</b?
+- Most word that customer talking about are <b>น้ำ, ทาน, กิน, อร่อย, ดี</b>
+
+
+Reference<br/>
+https://towardsdatascience.com/text2emotion-python-package-to-detect-emotions-from-textual-data-b2e7b7ce1153<br/>
+https://hackernoon.com/how-to-perform-emotion-detection-in-text-via-python-lk383tsu<br/>
