@@ -26,3 +26,4 @@ Data file : CustomerReviews.csv
 Reference<br/>
 https://towardsdatascience.com/text2emotion-python-package-to-detect-emotions-from-textual-data-b2e7b7ce1153<br/>
 https://hackernoon.com/how-to-perform-emotion-detection-in-text-via-python-lk383tsu<br/>
+https://pypi.org/project/googletrans/<br/>
