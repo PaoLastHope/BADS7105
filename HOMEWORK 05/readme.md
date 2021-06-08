@@ -14,7 +14,6 @@ Details   : 956,575 rows, 22 columns, 132,537 KB  ( Sample Data, not the actual)
 
 
 
-Reference
-
+Reference<br/>
 https://www.dunnhumby.com/source-files/<br/>
 https://thanachart-rit.medium.com/upload-data-to-google-bigquery-using-google-cloud-sdk-set-up-data-environment-with-supermarket-fc144a0ce4d1
