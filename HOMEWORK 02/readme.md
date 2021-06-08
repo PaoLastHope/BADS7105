@@ -8,12 +8,15 @@
 
 <h2>Barries</h2>
 
+![barrier](https://user-images.githubusercontent.com/5312356/121166018-eb0d1300-c87a-11eb-9aa3-0fbbafb39bc8.png)
+
 <h2>Gain</h2>
 
 <h2>Rescue</h2>
 
+![recue](https://user-images.githubusercontent.com/5312356/121167638-51defc00-c87c-11eb-9830-bb89671531a5.png)
+
 <h2>Role</h2>
 
-![role](https://user-images.githubusercontent.com/5312356/121158184-5c959300-c874-11eb-902a-846540720360.png)
-
+![role](https://user-images.githubusercontent.com/5312356/121159116-1d1b7680-c875-11eb-9d7a-0aed5d23f8a4.png)
 
