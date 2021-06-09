@@ -30,7 +30,7 @@ Separate customer into 2 group, because one-time customer cannot do
 -    priori-based - segment 1
 -    value-based - segment 2
 -    need-based - segment 3 <br/>
-note: record of transactions with no customer code will set as one-time customer
+<b>Note: record of transactions with no customer code will set as one-time customer</b>
      
 <b>return customer</b> ( more than one transactions )
 -    priori-based - segment 4
@@ -40,11 +40,13 @@ note: record of transactions with no customer code will set as one-time customer
 Final result is list of customers on each segmentation
 
 <h2>Proceed segmentation</h2><br/>
+
 Select group of clustering
 - Using K-means algorithm, so it's need to set the right value of k
 - Using <b>simple_kmean</b> program to desire k-mean value 
 
 comparing one-time customer distribution
+
 
 comparing return customer distribution
 
