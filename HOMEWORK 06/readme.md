@@ -18,3 +18,4 @@ Reference<br/>
 https://www.dunnhumby.com/source-files/<br/>
 https://thanachart-rit.medium.com/upload-data-to-google-bigquery-using-google-cloud-sdk-set-up-data-environment-with-supermarket-fc144a0ce4d1<br/>
 https://openviewpartners.com/blog/customer-segmentation/#.YMCXe_kzY2w<br/>
+https://cloud.google.com/bigquery-ml/docs/introduction<br/>
