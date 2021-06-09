@@ -15,36 +15,45 @@ Details   : 956,575 rows, 22 columns, 132,537 KB  ( Sample Data, not the actual)
 </p>
 <br>
 
-<b>Scenario</b><br/>
-I need to delivery the list of customers data to marketing team and crm team.
+<h2>Scenario</h2>
+
+<img width='500' src="https://github.com/PaoLastHope/BADS7105/blob/d8c8a67e04efdfdc407e836617d0a2e48f659ef0/HOMEWORK%2006/images/sce.PNG">
+
+I need to delivery the list of customers data to marketing team and crm team.<br/>
 So they can use the data to make the promotions on each customer or improve services.
 
+<img width='500' src="https://github.com/PaoLastHope/BADS7105/blob/d8c8a67e04efdfdc407e836617d0a2e48f659ef0/HOMEWORK%2006/images/seg.PNG">
 
 Separate customer into 2 group, because one-time customer cannot do 
-one-time customer ( only one transaction )
+
+<b>one-time customer</b> ( only one transaction )
 -    priori-based - segment 1
 -    value-based - segment 2
 -    need-based - segment 3 <br/>
 note: record of transactions with no customer code will set as one-time customer
      
-return customer ( more than one transactions )
+<b>return customer</b> ( more than one transactions )
 -    priori-based - segment 4
 -    value-based - segment 5
 -    need-based - segment 6 <br/>
 
 Final result is list of customers on each segmentation
 
-<b>Proceed segmentation</b>
-- Keep it simple
-- For these scenarions, I will use google BigQuery ML and DataStudio
+<h2>Proceed segmentation</h2><br/>
+Select group of clustering
+- Using K-means algorithm, so it's need to set the right value of k
+- Using <b>simple_kmean</b> program to desire k-mean value 
+
+comparing one-time customer distribution
+
+comparing return customer distribution
 
 
 
-
-
-
-
-
+Prepare data
+- A simple process for these scenarios using Google BigQuery ML and DataStudio
+- Import data file into Google Cloud Storage 
+- Proceed query in Google BigQuery by connect data from Google CLoud Storage
 
 
 
@@ -53,3 +62,4 @@ https://www.dunnhumby.com/source-files/<br/>
 https://thanachart-rit.medium.com/upload-data-to-google-bigquery-using-google-cloud-sdk-set-up-data-environment-with-supermarket-fc144a0ce4d1<br/>
 https://openviewpartners.com/blog/customer-segmentation/#.YMCXe_kzY2w<br/>
 https://cloud.google.com/bigquery-ml/docs/introduction<br/>
+https://towardsdatascience.com/how-to-use-k-means-clustering-in-bigquery-ml-to-understand-and-describe-your-data-better-c972c6f5733b<br/>
