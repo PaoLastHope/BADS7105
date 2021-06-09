@@ -46,7 +46,31 @@ Select group of clustering
 - Using <b>simple_kmean</b> program to desire k-mean value 
 
 comparing one-time customer distribution
-
+<pre><code>
+SELECT
+  CUST_CODE,
+  SUM(SPEND) AS TOTAL_SALES,
+  COUNT(DISTINCT BASKET_ID) AS TOTAL_VISIT
+FROM
+  `apiwats-project.my_dataset.my_market`
+WHERE
+  CUST_CODE IS NOT NULL
+GROUP BY
+  CUST_CODe
+HAVING
+  total_visit = 1
+UNION ALL
+SELECT
+  NULL AS cust_code,
+  SUM(SPEND) AS TOTAL_SALES,
+  COUNT(BASKET_ID) AS TOTAL_VISIT
+FROM
+  `my_dataset.my_market`
+WHERE
+  cust_code IS NULL
+GROUP BY
+  basket_id
+</pre></code>
 
 comparing return customer distribution
 
