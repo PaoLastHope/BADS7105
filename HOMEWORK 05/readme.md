@@ -12,8 +12,21 @@ Details   : 956,575 rows, 22 columns, 132,537 KB  ( Sample Data, not the actual)
 </p>
 <br>
 
-
+<pre>
+  <code>
+    variables :
+     a
+     b
+     c
+ 
+    I can write my code anyway I like
+    and the "pre" tag will keep it that way!
+  </code>
+</pre>
 
 Reference<br/>
 https://www.dunnhumby.com/source-files/<br/>
+https://cloud.google.com/bigquery/docs/sandbox
 https://thanachart-rit.medium.com/upload-data-to-google-bigquery-using-google-cloud-sdk-set-up-data-environment-with-supermarket-fc144a0ce4d1
+https://blog.hubspot.com/service/how-to-calculate-customer-lifetime-value
+https://www.zaius.com/customer-lifetime-value-cltv/
