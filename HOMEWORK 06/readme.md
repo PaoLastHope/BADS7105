@@ -73,8 +73,22 @@ GROUP BY
 </pre></code>
 
 comparing return customer distribution
-
-
+<pre><code>
+SELECT
+  CUST_CODE,
+  SUM(SPEND) AS TOTAL_SALES,
+  COUNT(DISTINCT BASKET_ID) AS TOTAL_VISIT
+FROM
+  `apiwats-project.my_dataset.my_market`
+WHERE
+  CUST_CODE IS NOT NULL
+GROUP BY
+  CUST_CODe
+HAVING
+  TOTAL_VISIT > 1
+ORDER BY
+  cust_code;
+</pre></code>
 
 Prepare data
 - A simple process for these scenarios using Google BigQuery ML and DataStudio
