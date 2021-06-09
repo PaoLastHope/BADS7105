@@ -12,17 +12,27 @@ Details   : 956,575 rows, 22 columns, 132,537 KB  ( Sample Data, not the actual)
 </p>
 <br>
 
+<b>Customer Lifetime Value Formulas</b>
+
+
 <pre>
   <code>
-    variables :
-     a
-     b
-     c
- 
-    I can write my code anyway I like
-    and the "pre" tag will keep it that way!
+select 
+left(shop_date,4) as shop_year,
+SUM(spend) as total_spend,
+count(DISTINCT basket_id) as total_basket,
+count(DISTINCT CUST_CODE) as total_customer,
+(SUM(spend) / count(DISTINCT basket_id)) as APV,
+(SUM(spend) / count(DISTINCT CUST_CODE)) as APFR
+from `my_dataset.my_market`
+group by shop_year;
   </code>
 </pre>
+
+<b>Customer Value</b> 
+
+
+
 
 Reference<br/>
 https://www.dunnhumby.com/source-files/<br/>
