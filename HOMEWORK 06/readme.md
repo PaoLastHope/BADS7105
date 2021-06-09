@@ -15,7 +15,7 @@ Details   : 956,575 rows, 22 columns, 132,537 KB  ( Sample Data, not the actual)
 </p>
 <br>
 
-<b>Scenario</b>
+<b>Scenario</b><br/>
 I need to delivery the list of customers data to marketing team and crm team.
 So they can use the data to make the promotions on each customer or improve services.
 
