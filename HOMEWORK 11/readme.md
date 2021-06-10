@@ -27,3 +27,5 @@ Reference<br/>
 https://towardsdatascience.com/text2emotion-python-package-to-detect-emotions-from-textual-data-b2e7b7ce1153<br/>
 https://hackernoon.com/how-to-perform-emotion-detection-in-text-via-python-lk383tsu<br/>
 https://pypi.org/project/googletrans/<br/>
+https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
+https://towardsdatascience.com/end-to-end-topic-modeling-in-python-latent-dirichlet-allocation-lda-35ce4ed6b3e0
