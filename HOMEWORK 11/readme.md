@@ -16,7 +16,6 @@ Data file : CustomerReviews.csv
 <p align="left">
 <img src="https://github.com/PaoLastHope/BADS7105/blob/a2ddf1449b370707ed6baa9082d5ebce16174d4d/HOMEWORK%2011/images/over.PNG">
 </p>
-<br />
 
 <h2>Word Count</h2>
 <img width="369" alt="8" src="https://user-images.githubusercontent.com/5312356/121017953-0f5be780-c7c8-11eb-93b1-86da47fe472d.PNG">
