@@ -20,7 +20,9 @@ Details   : 956,575 rows, 22 columns, 132,537 KB  ( Sample Data, not the actual)
 <img width='500' src="https://github.com/PaoLastHope/BADS7105/blob/d8c8a67e04efdfdc407e836617d0a2e48f659ef0/HOMEWORK%2006/images/sce.PNG">
 
 I need to delivery the list of customers data to marketing team and crm team.<br/>
-So they can use the data to make the promotions on each customer or improve services.
+So they can use the data to make the promotions on each customer or improve services.<br/>
+To learn characteristics of a product group.
+To learn how to reduce cannibalization or improve cross-selling.
 
 <img width='500' src="https://github.com/PaoLastHope/BADS7105/blob/d8c8a67e04efdfdc407e836617d0a2e48f659ef0/HOMEWORK%2006/images/seg.PNG">
 
@@ -41,60 +43,56 @@ Final result is list of customers on each segmentation
 
 <h2>Proceed segmentation</h2><br/>
 
-Select group of clustering
-- Using K-means algorithm, so it's need to set the right value of k
-- Using <b>simple_kmean</b> program to desire k-mean value 
-
-comparing one-time customer distribution
-<pre><code>
-SELECT
-  CUST_CODE,
-  SUM(SPEND) AS TOTAL_SALES,
-  COUNT(DISTINCT BASKET_ID) AS TOTAL_VISIT
-FROM
-  `apiwats-project.my_dataset.my_market`
-WHERE
-  CUST_CODE IS NOT NULL
-GROUP BY
-  CUST_CODe
-HAVING
-  total_visit = 1
-UNION ALL
-SELECT
-  NULL AS cust_code,
-  SUM(SPEND) AS TOTAL_SALES,
-  COUNT(BASKET_ID) AS TOTAL_VISIT
-FROM
-  `my_dataset.my_market`
-WHERE
-  cust_code IS NULL
-GROUP BY
-  basket_id
-</pre></code>
-
-comparing return customer distribution
-<pre><code>
-SELECT
-  CUST_CODE,
-  SUM(SPEND) AS TOTAL_SALES,
-  COUNT(DISTINCT BASKET_ID) AS TOTAL_VISIT
-FROM
-  `apiwats-project.my_dataset.my_market`
-WHERE
-  CUST_CODE IS NOT NULL
-GROUP BY
-  CUST_CODe
-HAVING
-  TOTAL_VISIT > 1
-ORDER BY
-  cust_code;
-</pre></code>
-
 Prepare data
 - A simple process for these scenarios using Google BigQuery ML and DataStudio
 - Import data file into Google Cloud Storage 
-- Proceed query in Google BigQuery by connect data from Google CLoud Storage
+- Connect data from Google Cloud Storage, now we can do query.
 
+Query to retrieve one-time customer ( result = 27,052 )
+<pre><code>
+SELECT
+  CUST_CODE,
+  SUM(SPEND) AS TOTAL_SALES,
+  COUNT(DISTINCT BASKET_ID) AS TOTAL_VISIT
+FROM `apiwats-project.my_dataset.my_market`
+WHERE CUST_CODE IS NOT NULL
+GROUP BY CUST_CODe
+HAVING TOTAL_VISIT = 1
+UNION ALL
+SELECT
+  NULL AS CUST_CODE,
+  SUM(SPEND) AS TOTAL_SALES,
+  COUNT(DISTINCT BASKET_ID) AS TOTAL_VISIT
+FROM `apiwats-project.my_dataset.my_market`
+WHERE CUST_CODE IS NULL
+GROUP BY BASKET_ID;
+</pre></code>
+
+
+Query to retrieve return customer ( result = 4,075)
+<pre><code>
+SELECT
+  CUST_CODE,
+  SUM(SPEND) AS TOTAL_SALES,
+  COUNT(DISTINCT BASKET_ID) AS TOTAL_VISIT
+FROM `apiwats-project.my_dataset.my_market`
+WHERE CUST_CODE IS NOT NULL
+GROUP BY CUST_CODE
+HAVING TOTAL_VISIT > 1
+ORDER BY CUST_CODE;
+</pre></code>
+
+Select group of clustering
+- Using K-means algorithm on Google BigQuery ML, so it's need to set the right value of k (number of clustering)
+- Using <b>simple_kmean</b> program to desire k-mean value 
+
+<b>Comparing one-time customer distribution</b><br/>
+Since one-time customer mean they only visit = 1, so we can compare only basket's value <br/>
+Starting compare at k=2 to 4, we can see that k=4 the clustering start overapping. So k=3 is the right one. 
+
+<b>Comparing return customer distribution</b>
+For roughly choose, we can choose k = 4. At this point, we can see most customers are cleary clustering <br/>
+But recommend to choose is k = 7 for deeply focusing on customer's visit or value. And technically, we can grouping back to k = 4 
 
 
 Reference<br/>
