@@ -1,13 +1,17 @@
-# BADS7105 Customer Analysis
+# BADS7105 Customer Analysis Class
+## Apiwat Pounghirun NIDA 6310422093
+================================================================
 
+Homework 01 – Analysis of customer behaviors
 <p align="left">
 <img src="https://www.smartdatacollective.com/wp-content/uploads/2017/06/customer-behaviour-analysis.jpg"
      width="150" height="150" >
 </p>
 
-Homework 01 – Analysis of customer behaviors
+
 - Python program
 - Analytic tool
+
 ================================================================
 <p align="left">
 <img src="https://www.cabgfx.com/wp-content/uploads/2018/09/jtbd-page-cover-cabgfx.jpeg"
@@ -16,6 +20,7 @@ Homework 01 – Analysis of customer behaviors
 
 Homework 02 – Jobs to be done
 - explaination
+
 ================================================================
 <p align="left">
 <img src="https://lh3.googleusercontent.com/FNVIs6A276aM-nDocSE1xsl9lUqcngucgiXMQyd2XoQlqFgThbr5urAP79r5kbSENI4TatGyxMT_H-baCchozSJcl3LLMCKg5JoM5HEG2h_hO6G7gIDGFVpUId61vARKeL5Rt-hB"
@@ -23,7 +28,7 @@ Homework 02 – Jobs to be done
 </p>
 
 Homework 03 – Value Proposition
-- explaination
+- explaination<br/>
 ================================================================
 <p align="left">
 <img src="https://miro.medium.com/max/2800/0*HyogtoSLoNrMiSpR."
@@ -31,7 +36,7 @@ Homework 03 – Value Proposition
 </p>
 
 Homework 04 – Customer Journey
-- explaination
+- explaination<br/>
 ================================================================
 <p align="left">
 <img src="https://miro.medium.com/max/1008/1*UQtk_b6durwhxhO0PhHJkQ.jpeg"
