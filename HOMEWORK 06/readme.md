@@ -26,22 +26,11 @@ To learn how to reduce cannibalization or improve cross-selling.
 
 <img width='500' src="https://github.com/PaoLastHope/BADS7105/blob/d8c8a67e04efdfdc407e836617d0a2e48f659ef0/HOMEWORK%2006/images/seg.PNG">
 
-Separate customer into 2 group, because one-time customer cannot do 
+<h2>Process</h2><br/>
 
-<b>one-time customer</b> ( only one transaction )
--    priori-based - segment 1
--    value-based - segment 2
--    need-based - segment 3 <br/>
-<b>Note: record of transactions with no customer code will set as one-time customer</b>
-     
-<b>return customer</b> ( more than one transactions )
--    priori-based - segment 4
--    value-based - segment 5
--    need-based - segment 6 <br/>
-
-Final result is list of customers on each segmentation
-
-<h2>Proceed segmentation</h2><br/>
+<b>Separate customer into 2 groups</b><br/>
+one-time customer - only one transaction<br/>
+return customer - more than one transaction
 
 Prepare data
 - A simple process for these scenarios using Google BigQuery ML and DataStudio
@@ -85,7 +74,7 @@ Select group of clustering
 - Using K-means algorithm on Google BigQuery ML, so it's need to set the right value of k (number of clustering)
 - Using <b>simple_kmean</b> program to desire k-mean value 
 
-<b>Comparing one-time customer distribution</b><br/>
+<b>Comparing one-time customer</b><br/>
 First, about null customer code, we can assign running number for each bastker id
 
 <img width='500' src="https://github.com/PaoLastHope/BADS7105/blob/00584dd9b4ee1b33cc20068174ea494a1811a7dd/HOMEWORK%2006/images/1-4.PNG">
@@ -102,6 +91,7 @@ Starting compare at k=2 to 4, we can see that k=4 the clustering start overappin
 
 <b>Comparing return customer distribution</b>
 
+Choosing K number for return customer ...
 
 <img width='500' src="https://github.com/PaoLastHope/BADS7105/blob/2f6001500cb4ccbe581511b4a93d67d14eb90f6f/HOMEWORK%2006/images/2-1.PNG">
 <img width='500' src="https://github.com/PaoLastHope/BADS7105/blob/00584dd9b4ee1b33cc20068174ea494a1811a7dd/HOMEWORK%2006/images/2-2.PNG">
@@ -111,6 +101,21 @@ Starting compare at k=2 to 4, we can see that k=4 the clustering start overappin
 
 For roughly choose, we can choose k = 4. At this point, we can see most customers are cleary clustering <br/>
 But recommend to choose is <b>k = 7</b> for deeply focusing on customer's visit or value. And technically, we can grouping back to k = 4 
+
+<b>Proceed Machine Learning Segmentation</b><br/>
+
+<b>one-time customer</b>
+-    priori-based - segment 1
+-    value-based - segment 2
+-    need-based - segment 3 <br/>
+<b>Note: record of transactions with no customer code will set as one-time customer</b>
+     
+<b>return customer</b> 
+-    priori-based - segment 4
+-    value-based - segment 5
+-    need-based - segment 6 <br/>
+
+Final result is list of customers on each segmentation
 
 Reference<br/>
 https://www.dunnhumby.com/source-files/<br/>
