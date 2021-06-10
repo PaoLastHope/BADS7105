@@ -13,7 +13,12 @@
 Data file : supermarket.xlsx <br>
 Details   : 956,575 rows, 22 columns, 132,537 KB  ( Sample Data, not the actual)
 </p>
-<br>
+<br/>
+
+Prepare data
+- A simple process for these scenarios using Google BigQuery ML and DataStudio
+- Import data file into Google Cloud Storage 
+- Connect data from Google Cloud Storage, now we can do query.
 
 <h2>Scenario</h2>
 
@@ -32,11 +37,6 @@ To learn how to reduce cannibalization or improve cross-selling.
 one-time customer - only one transaction<br/>
 return customer - more than one transaction<br/>
 <b>Note: record of transactions with no customer code will set as one-time customer</b>
-
-Prepare data
-- A simple process for these scenarios using Google BigQuery ML and DataStudio
-- Import data file into Google Cloud Storage 
-- Connect data from Google Cloud Storage, now we can do query.
 
 Query to retrieve one-time customer ( result = 27,052 )
 <pre><code>
