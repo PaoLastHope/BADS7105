@@ -19,7 +19,6 @@ Prepare data
 
 <b>Customer Lifetime Value Formulas</b>
 
-
 <pre>
   <code>
 select 
@@ -37,7 +36,9 @@ group by shop_year;
 <b>Customer Value</b> 
 
 
-<h2>Dashboard Power BI</h2>
+<h2>Dashboard</h2>
+Using Power BI to build a dasboard. Load data from Google BigQuery
+<img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/958ee592cc36702270b4cda2ea6f5c2f657ee746/HOMEWORK%2005/images/bicon.PNG">
 
 
 Reference<br/>
