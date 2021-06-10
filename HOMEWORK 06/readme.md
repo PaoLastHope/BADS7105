@@ -101,7 +101,8 @@ Choosing K number for return customer ...
 <img src="https://github.com/PaoLastHope/BADS7105/blob/00584dd9b4ee1b33cc20068174ea494a1811a7dd/HOMEWORK%2006/images/22-2.PNG">
 
 For roughly choosing, we can choose k = 4. At this point, we can see most customers are cleary clustering <br/>
-But recommend to choose is <b>k = 7</b> for deeply focusing on customer's visit or value. And technically, we can grouping back to k = 4 
+For K = 8, cluster 0 1 start overlapping. Then, recommend to choose <b>k = 7</b> for deeply focusing on customer's visit or value. <br/>
+Also, technically, we can grouping back to k = 4 
 
 <b>Proceed Machine Learning Segmentation</b><br/>
 
