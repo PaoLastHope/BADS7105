@@ -30,7 +30,8 @@ To learn how to reduce cannibalization or improve cross-selling.
 
 <b>Separate customer into 2 groups</b><br/>
 one-time customer - only one transaction<br/>
-return customer - more than one transaction
+return customer - more than one transaction<br/>
+<b>Note: record of transactions with no customer code will set as one-time customer</b>
 
 Prepare data
 - A simple process for these scenarios using Google BigQuery ML and DataStudio
@@ -108,7 +109,6 @@ But recommend to choose is <b>k = 7</b> for deeply focusing on customer's visit 
 -    priori-based - segment 1
 -    value-based - segment 2
 -    need-based - segment 3 <br/>
-<b>Note: record of transactions with no customer code will set as one-time customer</b>
      
 <b>return customer</b> 
 -    priori-based - segment 4
