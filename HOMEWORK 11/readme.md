@@ -22,10 +22,16 @@ Data file : CustomerReviews.csv
 <img width="369" alt="8" src="https://user-images.githubusercontent.com/5312356/121017953-0f5be780-c7c8-11eb-93b1-86da47fe472d.PNG">
 - Most word that customer talking about are <b>น้ำ, ทาน, กิน, อร่อย, ดี</b>
 
+<h2>Toppic Modeling</h2>
+
+
+<h2>Text to Emotion</h2>
+
+
 
 Reference<br/>
 https://towardsdatascience.com/text2emotion-python-package-to-detect-emotions-from-textual-data-b2e7b7ce1153<br/>
 https://hackernoon.com/how-to-perform-emotion-detection-in-text-via-python-lk383tsu<br/>
-https://pypi.org/project/googletrans/<br/>
 https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
 https://towardsdatascience.com/end-to-end-topic-modeling-in-python-latent-dirichlet-allocation-lda-35ce4ed6b3e0
+https://cloud.google.com/translate/docs/basic/translating-text#translate_translate_text-python
