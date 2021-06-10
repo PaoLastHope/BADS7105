@@ -68,7 +68,6 @@ WHERE CUST_CODE IS NULL
 GROUP BY BASKET_ID;
 </pre></code>
 
-
 Query to retrieve return customer ( result = 4,075)
 <pre><code>
 SELECT
@@ -87,13 +86,31 @@ Select group of clustering
 - Using <b>simple_kmean</b> program to desire k-mean value 
 
 <b>Comparing one-time customer distribution</b><br/>
+First, about null customer code, we can assign running number for each bastker id
+
+<img width='500' src="https://github.com/PaoLastHope/BADS7105/blob/00584dd9b4ee1b33cc20068174ea494a1811a7dd/HOMEWORK%2006/images/1-4.PNG">
+
+Choosing K number for one-time customer ...
+
+<img width='500' src="https://github.com/PaoLastHope/BADS7105/blob/2f6001500cb4ccbe581511b4a93d67d14eb90f6f/HOMEWORK%2006/images/1-1.PNG">
+<img width='500' src="https://github.com/PaoLastHope/BADS7105/blob/00584dd9b4ee1b33cc20068174ea494a1811a7dd/HOMEWORK%2006/images/1-2.PNG">
+<img width='500' src="https://github.com/PaoLastHope/BADS7105/blob/00584dd9b4ee1b33cc20068174ea494a1811a7dd/HOMEWORK%2006/images/1-3.PNG">
+<img src="https://github.com/PaoLastHope/BADS7105/blob/00584dd9b4ee1b33cc20068174ea494a1811a7dd/HOMEWORK%2006/images/11-1.PNG">
+
 Since one-time customer mean they only visit = 1, so we can compare only basket's value <br/>
-Starting compare at k=2 to 4, we can see that k=4 the clustering start overapping. So k=3 is the right one. 
+Starting compare at k=2 to 4, we can see that k=4 the clustering start overapping. So <b>k=3</b> is the right one. 
 
 <b>Comparing return customer distribution</b>
-For roughly choose, we can choose k = 4. At this point, we can see most customers are cleary clustering <br/>
-But recommend to choose is k = 7 for deeply focusing on customer's visit or value. And technically, we can grouping back to k = 4 
 
+
+<img width='500' src="https://github.com/PaoLastHope/BADS7105/blob/2f6001500cb4ccbe581511b4a93d67d14eb90f6f/HOMEWORK%2006/images/2-1.PNG">
+<img width='500' src="https://github.com/PaoLastHope/BADS7105/blob/00584dd9b4ee1b33cc20068174ea494a1811a7dd/HOMEWORK%2006/images/2-2.PNG">
+<img width='500' src="https://github.com/PaoLastHope/BADS7105/blob/00584dd9b4ee1b33cc20068174ea494a1811a7dd/HOMEWORK%2006/images/2-3.PNG">
+<img src="https://github.com/PaoLastHope/BADS7105/blob/00584dd9b4ee1b33cc20068174ea494a1811a7dd/HOMEWORK%2006/images/22-1.PNG">
+<img src="https://github.com/PaoLastHope/BADS7105/blob/00584dd9b4ee1b33cc20068174ea494a1811a7dd/HOMEWORK%2006/images/22-2.PNG">
+
+For roughly choose, we can choose k = 4. At this point, we can see most customers are cleary clustering <br/>
+But recommend to choose is <b>k = 7</b> for deeply focusing on customer's visit or value. And technically, we can grouping back to k = 4 
 
 Reference<br/>
 https://www.dunnhumby.com/source-files/<br/>
