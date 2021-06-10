@@ -3,7 +3,7 @@
 <p align="left">
 <img width="367" alt="1" src="https://user-images.githubusercontent.com/5312356/120929641-fb56ae00-c713-11eb-9d10-a13e69f00b15.PNG">
 
-<b>DIRECT MARKETING TO CUSTOMERS - The Complete Journey</b>
+<b>DIRECT MARKETING TO CUSTOMERS - Let’s Get Sort-of-Real</b>
 
 <img src="https://cdn.iconscout.com/icon/free/png-512/microsoft-excel-2-569282.png"
      width="100" height="100" ><br>
