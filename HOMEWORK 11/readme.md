@@ -22,16 +22,20 @@ Data file : CustomerReviews.csv
 - Most word that customer talking about are <b>น้ำ, ทาน, กิน, อร่อย, ดี</b>
 
 <h2>Topic Modeling</h2>
-- Using pyldavis and gensim API to display 
-- Note: pyldavi is not official API, need to encounter some errors sometimes, always update it
+- Using pyldavis and gensim API to display <br/>
+- Note: pyldavi is not official API, need to encounter some errors sometimes, always update it<br/>
 
 
 
 
 <h2>Text to Emotion</h2>
-- Using Text2emotion to calculate emotional score from words.
-- PyThaiNLP already provide translation from thai to english. But for global use, we should apply with official API.
+- Using Text2emotion to calculate emotional score from words. But this require to be english text. (Currently, no thai API)<br/>
+- PyThaiNLP already provide translation from thai to english. But for global use, we should apply with official API<br/>
+- The result may not correctly right, because we're dealing with technology of computer and human's feeling<br/>
 
+<img src="https://github.com/PaoLastHope/BADS7105/blob/751da4bed48fe21774c449cd839949f181606db1/HOMEWORK%2011/images/9.PNG">
+
+<img src="https://github.com/PaoLastHope/BADS7105/blob/751da4bed48fe21774c449cd839949f181606db1/HOMEWORK%2011/images/10.PNG">
 
 Reference<br/>
 https://github.com/PyThaiNLP/pythainlp
