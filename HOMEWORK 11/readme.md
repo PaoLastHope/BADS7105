@@ -18,8 +18,8 @@ Data file : CustomerReviews.csv
 </p>
 
 <h2>Word Count</h2>
-<img width="369" alt="8" src="https://user-images.githubusercontent.com/5312356/121017953-0f5be780-c7c8-11eb-93b1-86da47fe472d.PNG">
-- Most word that customer talking about are <b>น้ำ, ทาน, กิน, อร่อย, ดี</b>
+<img src="https://github.com/PaoLastHope/BADS7105/blob/9dc4a59c9134e8dcc597744b0c8397cceb2016a6/HOMEWORK%2011/images/wc.PNG">
+- Most word that customer talking about are <b>น้ำ, ทาน, กิน, อร่อย, เลือก</b>
 
 <h2>Topic Modeling</h2>
 - Using pyldavis and gensim API to display <br/>
@@ -31,10 +31,20 @@ Data file : CustomerReviews.csv
 
 Evaluate Coherance score of number for topics 1-10
 
+<img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/9dc4a59c9134e8dcc597744b0c8397cceb2016a6/HOMEWORK%2011/images/co.PNG">
+<img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/9dc4a59c9134e8dcc597744b0c8397cceb2016a6/HOMEWORK%2011/images/t1.PNG">
+<img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/9dc4a59c9134e8dcc597744b0c8397cceb2016a6/HOMEWORK%2011/images/t2.PNG">
+<img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/9dc4a59c9134e8dcc597744b0c8397cceb2016a6/HOMEWORK%2011/images/t3.PNG">
+<img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/9dc4a59c9134e8dcc597744b0c8397cceb2016a6/HOMEWORK%2011/images/t4.PNG">
+
 Diplay Topics 
 - After running model 2-6 topics, I choose 4 topics becuase the blue bubble is clearly separation
-- The result of topic may not totally make sense
-- To fixed new meaning word or slang or worng spelling is difficult task
+- Topic 1 seem about <b>good taste or likely taste</b>
+- Topic 2 seem about <b>what food they are eating</b>
+- Topic 3 seem about <b>price of eating</b>
+- Topic 4 seem about <b>choosing branch or place</b>
+- The result of topic may not totally make sense, need to fine-tuning model and parameters
+- To fixed new meaning words,slang, wrong spelling are difficult tasks
 
 <h2>Text to Emotion</h2>
 - Using Text2emotion to calculate emotional score from words. But this require to be english text. (Currently, no thai API)<br/>
