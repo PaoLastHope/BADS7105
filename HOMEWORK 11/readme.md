@@ -21,14 +21,20 @@ Data file : CustomerReviews.csv
 <img width="369" alt="8" src="https://user-images.githubusercontent.com/5312356/121017953-0f5be780-c7c8-11eb-93b1-86da47fe472d.PNG">
 - Most word that customer talking about are <b>น้ำ, ทาน, กิน, อร่อย, ดี</b>
 
-<h2>Toppic Modeling</h2>
+<h2>Topic Modeling</h2>
+- Using pyldavis and gensim API to display 
+- Note: pyldavi is not official API, need to encounter some errors sometimes, always update it
+
+
 
 
 <h2>Text to Emotion</h2>
-
+- Using Text2emotion to calculate emotional score from words.
+- PyThaiNLP already provide translation from thai to english. But for global use, we should apply with official API.
 
 
 Reference<br/>
+https://github.com/PyThaiNLP/pythainlp
 https://towardsdatascience.com/text2emotion-python-package-to-detect-emotions-from-textual-data-b2e7b7ce1153<br/>
 https://hackernoon.com/how-to-perform-emotion-detection-in-text-via-python-lk383tsu<br/>
 https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
