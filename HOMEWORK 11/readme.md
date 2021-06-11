@@ -23,10 +23,18 @@ Data file : CustomerReviews.csv
 
 <h2>Topic Modeling</h2>
 - Using pyldavis and gensim API to display <br/>
-- Note: pyldavi is not official API, need to encounter some errors sometimes, always update it<br/>
+- Always update API because pyldavi is not official API, some code maybe errors<br/>
+- Using customize Tokenizer class for more accurately tokenize of words, using all api dictionary
+- Always normalize word if spelling wrong all wrong position of char, also remove special symbol or charactors
+- Fix thai dictionay by adding additional words such as 'เบาๆ', 'เทมปุระ', 'เนื้อออส' ...
+- Fix thai dictionay by adding location or shop name such as 'โมโม่','เดอะมอลล์', 'ยูเนี่ยนมอลล์' ...
 
+Evaluate Coherance score of number for topics 1-10
 
-
+Diplay Topics 
+- After running model 2-6 topics, I choose 4 topics becuase the blue bubble is clearly separation
+- The result of topic may not totally make sense
+- To fixed new meaning word or slang or worng spelling is difficult task
 
 <h2>Text to Emotion</h2>
 - Using Text2emotion to calculate emotional score from words. But this require to be english text. (Currently, no thai API)<br/>
