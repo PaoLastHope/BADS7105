@@ -21,7 +21,7 @@ Display cumulative summation of activities
 </p>
 
 What I've done...
-- using <b>flourish studio</b> tools
+- using flourish studio tools
 - cleasing original time data
 - change date format 01:00:00 PM -> 13:00  
 - edit time into period of 15 min. 11:02 -> 11:00, 11:13 -> 11:15
@@ -32,11 +32,13 @@ What I've known...
 - from observation, highly rate of changing activity at <b>00:00, 06:00, 08:00, 12:00, 16:00, 18:00, 20:00</b>
 
 <h2>Value Proposition</h2>
-<img width="377" alt="2" src="https://user-images.githubusercontent.com/5312356/120926002-45846300-c705-11eb-8cc6-d4ac64b15d9f.PNG">
+<img width="500" src="https://user-images.githubusercontent.com/5312356/120926002-45846300-c705-11eb-8cc6-d4ac64b15d9f.PNG">
 
 What I've done...
 - do grouping most pain of each member
 - do grouping most gain of each person
 - select some of pains&gain to set value proposition
+- applying with exist real-world application
 
-Please see attach file <b>activities.xlsx</b>
+Reference
+https://www.helpscout.com/blog/value-proposition-examples/
