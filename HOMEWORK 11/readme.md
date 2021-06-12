@@ -17,10 +17,6 @@ Data file : CustomerReviews.csv
 <img src="https://github.com/PaoLastHope/BADS7105/blob/a2ddf1449b370707ed6baa9082d5ebce16174d4d/HOMEWORK%2011/images/over.PNG">
 </p>
 
-<h2>Word Count</h2>
-<img src="https://github.com/PaoLastHope/BADS7105/blob/9dc4a59c9134e8dcc597744b0c8397cceb2016a6/HOMEWORK%2011/images/wc.PNG">
-- Most word that customer talking about are <b>น้ำ, ทาน, กิน, อร่อย, เลือก</b>
-
 <h2>Topic Modeling</h2>
 
 - Using pyldavis and gensim API to visualize possible topics from words<br/>
@@ -47,6 +43,10 @@ Diplay Topics
 - Topic 4 seem about <b>choosing branch or place</b>
 - The result of topic may not totally make sense, need to fine-tuning model and parameters
 - To fixed new meaning words,slang, wrong spelling are difficult tasks
+
+<h2>Word Count</h2>
+<img src="https://github.com/PaoLastHope/BADS7105/blob/9dc4a59c9134e8dcc597744b0c8397cceb2016a6/HOMEWORK%2011/images/wc.PNG">
+- Most word that customer talking about are <b>น้ำ, ทาน, กิน, อร่อย, เลือก</b>
 
 <h2>Text to Emotion</h2>
 - Using Text2emotion to calculate emotional score from words. But this require to be english text. (Currently, no thai API)<br/>
