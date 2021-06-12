@@ -23,10 +23,10 @@ Data file : CustomerReviews.csv
 
 <h2>Topic Modeling</h2>
 
-- Using pyldavis and gensim API to display <br/>
-- Always update API because pyldavi is not official API, some code maybe errors
-- Using customize Tokenizer class for more accurately tokenize of words, using all api dictionary
-- Always normalize word if spelling wrong all wrong position of char, also remove special symbol or charactors
+- Using pyldavis and gensim API to visualize possible topics from words<br/>
+- Always update API, because pyldavi is not official API, some part of code maybe errors
+- Using <b>customize Tokenizer class</b> for more accurately tokenize of words, using all api dictionary
+- Always <b>normalize word</b> if spelling wrong all wrong position of char, also remove special symbol or charactors
 - Fix thai dictionay by adding additional words such as 'เบาๆ', 'เทมปุระ', 'เนื้อออส' ...
 - Fix thai dictionay by adding location or shop name such as 'โมโม่','เดอะมอลล์', 'ยูเนี่ยนมอลล์' ...
 
@@ -51,7 +51,7 @@ Diplay Topics
 <h2>Text to Emotion</h2>
 - Using Text2emotion to calculate emotional score from words. But this require to be english text. (Currently, no thai API)<br/>
 - PyThaiNLP already provide translation from thai to english. But for global use, we should apply with official API<br/>
-- The result may not correctly right, because we're dealing with computer's language and human's feeling<br/>
+- Some part of the result may no feel right, because we're dealing with computer's language and human's feeling<br/>
 
 <img src="https://github.com/PaoLastHope/BADS7105/blob/751da4bed48fe21774c449cd839949f181606db1/HOMEWORK%2011/images/9.PNG">
 
