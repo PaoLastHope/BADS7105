@@ -51,7 +51,7 @@ Diplay Topics
 <h2>Text to Emotion</h2>
 - Using Text2emotion to calculate emotional score from words. But this require to be english text. (Currently, no thai API)<br/>
 - PyThaiNLP already provide translation from thai to english. But for global use, we should apply with official API<br/>
-- Some part of the result may no feel right, because we're dealing with computer's language and human's feeling<br/>
+- Some part of the result may not feel make sense, because we're dealing with computer's language and human's feeling<br/>
 
 <img src="https://github.com/PaoLastHope/BADS7105/blob/751da4bed48fe21774c449cd839949f181606db1/HOMEWORK%2011/images/9.PNG">
 
