@@ -40,5 +40,5 @@ What I've done...
 - select some of pains&gain to set value proposition
 - applying with exist real-world application
 
-Reference
+Reference<br/>
 https://www.helpscout.com/blog/value-proposition-examples/
