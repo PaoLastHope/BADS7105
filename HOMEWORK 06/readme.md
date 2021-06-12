@@ -36,7 +36,7 @@ To learn how to reduce cannibalization or improve cross-selling.
 <b>Separate customer into 2 groups</b><br/>
 one-time customer - only one transaction<br/>
 return customer - more than one transaction<br/>
-<b>Note: record of transactions with no customer code will set as one-time customer</b>
+<b>Note: record of transactions with no customer code will set as one-time customer(basket id per customer)</b>
 
 Query to retrieve one-time customer ( result = 27,052 )
 <pre><code>
