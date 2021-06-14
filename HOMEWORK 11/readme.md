@@ -50,6 +50,7 @@ Data file : CustomerReviews.csv
 - To fixed new meaning words,slang, wrong spelling are difficult tasks
 
 <h2>Word Count</h2>
+<img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/8b4794731f97e9b5698994fa710c9e16305f70fc/HOMEWORK%2011/images/wcl.PNG">
 <img src="https://github.com/PaoLastHope/BADS7105/blob/9dc4a59c9134e8dcc597744b0c8397cceb2016a6/HOMEWORK%2011/images/wc.PNG">
 - Using Wordcloud, need to install thaifont
 - Most word that customers typing are <b>น้ำ, ทาน, กิน, อร่อย, เลือก</b>
