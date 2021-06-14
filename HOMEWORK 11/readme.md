@@ -51,9 +51,9 @@ Data file : CustomerReviews.csv
 
 <h2>Word Count</h2>
 <img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/8b4794731f97e9b5698994fa710c9e16305f70fc/HOMEWORK%2011/images/wcl.PNG">
-<img src="https://github.com/PaoLastHope/BADS7105/blob/9dc4a59c9134e8dcc597744b0c8397cceb2016a6/HOMEWORK%2011/images/wc.PNG">
+<img src="https://github.com/PaoLastHope/BADS7105/blob/181093491d75a1b3130cb0a671883c740d7c0098/HOMEWORK%2011/images/wcn.PNG">
 - Using Wordcloud, need to install thaifont
-- Most word that customers typing are <b>น้ำ, ทาน, กิน, อร่อย, เลือก</b>
+- Most word that customers typing are <b>ร้าน, น้ำ, ทาน, กิน, อร่อย</b>
 
 <h2>Text to Emotion</h2>
 - Using Text2emotion to calculate emotional score from words. But this require to be english text. (Currently, no thai API)<br/>
