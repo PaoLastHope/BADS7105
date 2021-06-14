@@ -20,10 +20,10 @@ Data file : CustomerReviews.csv
 <h2>Topic Modeling</h2>
 
 - Using pyldavis and gensim API to visualize possible topics from words<br/>
-- Always update API, because pyldavi is not official API, some part of code maybe errors
-- Using <b>customize Tokenizer class</b> for more accurately tokenize of words, using all api dictionary
-- Always <b>normalize word</b> if spelling wrong all wrong position of char, also remove special symbol or charactors
-- Fix thai dictionary by add additional words and places from external files.
+- Always update API, because pyldavi is not official API, some part of code maybe errors.
+- Using <b>customize Tokenizer class</b> for more accurately tokenize of words, using all api dictionary.
+- Always <b>normalize word</b> if spelling wrong all wrong position of char, also remove special symbol or charactors.
+- Fix thai dictionary by add additional words and places from external files, so we can update more words later.
 <img src="https://github.com/PaoLastHope/BADS7105/blob/8b87a45986a620b67abd8c243162fddaced08c47/HOMEWORK%2011/images/add1.PNG">
 <img src="https://github.com/PaoLastHope/BADS7105/blob/8b87a45986a620b67abd8c243162fddaced08c47/HOMEWORK%2011/images/add2.PNG">
 
