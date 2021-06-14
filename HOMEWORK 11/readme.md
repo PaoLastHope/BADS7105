@@ -23,9 +23,8 @@ Data file : CustomerReviews.csv
 - Always update API, because pyldavi is not official API, some part of code maybe errors
 - Using <b>customize Tokenizer class</b> for more accurately tokenize of words, using all api dictionary
 - Always <b>normalize word</b> if spelling wrong all wrong position of char, also remove special symbol or charactors
-- Fix thai dictionary by adding additional words such as 'เบาๆ', 'เทมปุระ', 'เนื้อออส' ...
-- Fix thai dictionary by adding location or shop name such as 'โมโม่','เดอะมอลล์', 'ยูเนี่ยนมอลล์' ...
 
+Add additional words and places from files, to fix thai dictionary.
 
 Evaluate Coherance score of number for topics 1-10
 
