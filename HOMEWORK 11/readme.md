@@ -27,15 +27,20 @@ Data file : CustomerReviews.csv
 <img src="https://github.com/PaoLastHope/BADS7105/blob/8b87a45986a620b67abd8c243162fddaced08c47/HOMEWORK%2011/images/add1.PNG">
 <img src="https://github.com/PaoLastHope/BADS7105/blob/8b87a45986a620b67abd8c243162fddaced08c47/HOMEWORK%2011/images/add2.PNG">
 
-Evaluate Coherance score of number for topics 1-10
+<b>Evaluate Coherance score of number for topics </b>
 
 <img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/9dc4a59c9134e8dcc597744b0c8397cceb2016a6/HOMEWORK%2011/images/co.PNG">
-<img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/9dc4a59c9134e8dcc597744b0c8397cceb2016a6/HOMEWORK%2011/images/t1.PNG">
-<img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/9dc4a59c9134e8dcc597744b0c8397cceb2016a6/HOMEWORK%2011/images/t2.PNG">
-<img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/9dc4a59c9134e8dcc597744b0c8397cceb2016a6/HOMEWORK%2011/images/t3.PNG">
-<img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/9dc4a59c9134e8dcc597744b0c8397cceb2016a6/HOMEWORK%2011/images/t4.PNG">
+<img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/fdc30fb1b6d1071140c96f1ab204da67b0bfd1bc/HOMEWORK%2011/images/score.PNG">
 
-Diplay Topics 
+<b>Diplay Topics </b>
+
+<p align="left">
+<img width="450" src="https://github.com/PaoLastHope/BADS7105/blob/9dc4a59c9134e8dcc597744b0c8397cceb2016a6/HOMEWORK%2011/images/t1.PNG">
+<img width="450" src="https://github.com/PaoLastHope/BADS7105/blob/9dc4a59c9134e8dcc597744b0c8397cceb2016a6/HOMEWORK%2011/images/t2.PNG">
+<img width="450" src="https://github.com/PaoLastHope/BADS7105/blob/9dc4a59c9134e8dcc597744b0c8397cceb2016a6/HOMEWORK%2011/images/t3.PNG">
+<img width="450" src="https://github.com/PaoLastHope/BADS7105/blob/9dc4a59c9134e8dcc597744b0c8397cceb2016a6/HOMEWORK%2011/images/t4.PNG">
+</p>
+
 - After running model 2-6 topics, I choose 4 topics becuase the blue bubble is clearly separation
 - Topic 1 seem about <b>good taste or likely taste</b>
 - Topic 2 seem about <b>what food they are eating</b>
