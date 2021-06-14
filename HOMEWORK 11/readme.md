@@ -23,8 +23,9 @@ Data file : CustomerReviews.csv
 - Always update API, because pyldavi is not official API, some part of code maybe errors
 - Using <b>customize Tokenizer class</b> for more accurately tokenize of words, using all api dictionary
 - Always <b>normalize word</b> if spelling wrong all wrong position of char, also remove special symbol or charactors
-
-Add additional words and places from files, to fix thai dictionary.
+- Add additional words and places from external files, to fix thai dictionary.
+<img src="https://github.com/PaoLastHope/BADS7105/blob/8b87a45986a620b67abd8c243162fddaced08c47/HOMEWORK%2011/images/add1.PNG">
+<img src="https://github.com/PaoLastHope/BADS7105/blob/8b87a45986a620b67abd8c243162fddaced08c47/HOMEWORK%2011/images/add2.PNG">
 
 Evaluate Coherance score of number for topics 1-10
 
