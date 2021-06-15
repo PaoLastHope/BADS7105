@@ -17,6 +17,7 @@ Details   : 48 rows, 62 columns
 
 <h2>User - User </h2>
 
+<img src="">
 - Assign 'User' column, so we can do user-user similarity analysis
 
 - Using cosine_similarity and mean score 
