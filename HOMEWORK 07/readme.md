@@ -17,9 +17,11 @@ Details   : 48 rows, 62 columns
 
 <h2>User - User </h2>
 
-Assign 'User' column, so we can do user-user similarity analysis
+- Assign 'User' column, so we can do user-user similarity analysis
 
-<img src"">
+- Using cosine_similarity and mean score 
+
+- Now, we can recommend the user with the same product.
 
 Reference<br/>
 https://www.datacamp.com/community/tutorials/recommender-systems-python
