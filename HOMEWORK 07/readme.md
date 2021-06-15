@@ -21,9 +21,9 @@ Details   : 48 rows, 62 columns
 - Using cosine_similarity and mean score to filter the items
 - Now, we can recommend the product to the anoter users which likely to buy the same item.
 
-<img src="https://github.com/PaoLastHope/BADS7105/blob/db4dd95ec640681cdd3850cac060fc86cca25038/HOMEWORK%2007/images/uu1.PNG">
-<img src="https://github.com/PaoLastHope/BADS7105/blob/db4dd95ec640681cdd3850cac060fc86cca25038/HOMEWORK%2007/images/uu2.PNG">
-<img src="https://github.com/PaoLastHope/BADS7105/blob/db4dd95ec640681cdd3850cac060fc86cca25038/HOMEWORK%2007/images/uu3.PNG">
+<img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/db4dd95ec640681cdd3850cac060fc86cca25038/HOMEWORK%2007/images/uu1.PNG">
+<img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/db4dd95ec640681cdd3850cac060fc86cca25038/HOMEWORK%2007/images/uu2.PNG">
+<img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/db4dd95ec640681cdd3850cac060fc86cca25038/HOMEWORK%2007/images/uu3.PNG">
 
 Reference<br/>
 https://www.datacamp.com/community/tutorials/recommender-systems-python
