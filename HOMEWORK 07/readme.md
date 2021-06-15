@@ -9,7 +9,7 @@ Details   : 48 rows, 63 columns
 <br>
 
 <h2>Data Checking</h2>
-<img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/7053e994fd8fe3f64a15e2f97885e77c0f9e6c17/HOMEWORK%2007/images/it1.PNG">
+<img src="https://github.com/PaoLastHope/BADS7105/blob/7053e994fd8fe3f64a15e2f97885e77c0f9e6c17/HOMEWORK%2007/images/it1.PNG">
 
 <h2>Item - Item </h2>
 
@@ -18,12 +18,12 @@ Details   : 48 rows, 63 columns
 - Display the result with network function, red score represent the relation between product.
 - Note that label of product is Thai, need to install Thai font.
 
-<img src="https://github.com/PaoLastHope/BADS7105/blob/7053e994fd8fe3f64a15e2f97885e77c0f9e6c17/HOMEWORK%2007/images/it2.PNG">
-<img src="https://github.com/PaoLastHope/BADS7105/blob/7053e994fd8fe3f64a15e2f97885e77c0f9e6c17/HOMEWORK%2007/images/it3.PNG">
-<img src="https://github.com/PaoLastHope/BADS7105/blob/7053e994fd8fe3f64a15e2f97885e77c0f9e6c17/HOMEWORK%2007/images/it3.5.PNG">
-<img src="https://github.com/PaoLastHope/BADS7105/blob/7053e994fd8fe3f64a15e2f97885e77c0f9e6c17/HOMEWORK%2007/images/it3.6.PNG">
-<img src="https://github.com/PaoLastHope/BADS7105/blob/7053e994fd8fe3f64a15e2f97885e77c0f9e6c17/HOMEWORK%2007/images/it4.PNG">
-<img src="https://github.com/PaoLastHope/BADS7105/blob/7053e994fd8fe3f64a15e2f97885e77c0f9e6c17/HOMEWORK%2007/images/it5.PNG">
+<img src="https://github.com/PaoLastHope/BADS7105/blob/7053e994fd8fe3f64a15e2f97885e77c0f9e6c17/HOMEWORK%2007/images/it2.png">
+<img src="https://github.com/PaoLastHope/BADS7105/blob/7053e994fd8fe3f64a15e2f97885e77c0f9e6c17/HOMEWORK%2007/images/it3.png">
+<img src="https://github.com/PaoLastHope/BADS7105/blob/7053e994fd8fe3f64a15e2f97885e77c0f9e6c17/HOMEWORK%2007/images/t35.PNG">
+<img src="https://github.com/PaoLastHope/BADS7105/blob/7053e994fd8fe3f64a15e2f97885e77c0f9e6c17/HOMEWORK%2007/images/t36.PNG">
+<img src="https://github.com/PaoLastHope/BADS7105/blob/7053e994fd8fe3f64a15e2f97885e77c0f9e6c17/HOMEWORK%2007/images/it4.png">
+<img src="https://github.com/PaoLastHope/BADS7105/blob/7053e994fd8fe3f64a15e2f97885e77c0f9e6c17/HOMEWORK%2007/images/it5.png">
 
 <h2>User - User </h2>
 
