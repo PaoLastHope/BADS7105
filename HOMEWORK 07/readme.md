@@ -3,13 +3,13 @@
 <p align="left">
 <img src="https://cdn.iconscout.com/icon/free/png-512/microsoft-excel-2-569282.png"
      width="100" height="100" ><br>
-Data file : Customer Preference Survey.xlsx <br>
-Details   : 48 rows, 62 columns
+Data file : Customer Preference Survey_Edit.xlsx <br>
+Details   : 48 rows, 63 columns
 </p>
 <br>
 
 <h2>Data Checking</h2>
-
+<img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/db4dd95ec640681cdd3850cac060fc86cca25038/HOMEWORK%2007/images/t1.PNG">
 
 <h2>Item - Item </h2>
 - Convert text 'เคย' to 1, 'ไม่เคย' to 0. So, we can start data manipulation 
