@@ -10,7 +10,16 @@ Details   : 48 rows, 62 columns
 
 <h2>Item - Item </h2>
 
+
+
+
+
+
 <h2>User - User </h2>
+
+Assign 'User' column, so we can do user-user similarity analysis
+
+<img src"">
 
 Reference<br/>
 https://www.datacamp.com/community/tutorials/recommender-systems-python
