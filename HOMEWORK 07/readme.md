@@ -11,7 +11,7 @@ Details   : 48 rows, 63 columns
 <h2>Data Checking</h2>
 <img src="https://github.com/PaoLastHope/BADS7105/blob/7053e994fd8fe3f64a15e2f97885e77c0f9e6c17/HOMEWORK%2007/images/it1.PNG">
 
-<h2>Item - Item </h2>
+<h2>Item - Item based</h2>
 
 - Convert text 'เคย' to 1, 'ไม่เคย' to 0. So, we can start data manipulation .
 - Perform <b>collaborative filtering</b> to see the score of relation between product.
@@ -25,7 +25,7 @@ Details   : 48 rows, 63 columns
 <img src="https://github.com/PaoLastHope/BADS7105/blob/7053e994fd8fe3f64a15e2f97885e77c0f9e6c17/HOMEWORK%2007/images/it4.png">
 <img src="https://github.com/PaoLastHope/BADS7105/blob/7053e994fd8fe3f64a15e2f97885e77c0f9e6c17/HOMEWORK%2007/images/it5.png">
 
-<h2>User - User </h2>
+<h2>User - User based</h2>
 
 - Assign 'User' column, so we can do user-user similarity analysis
 - Using <b>cosine similarity</b> and mean score to filter the items
@@ -36,4 +36,6 @@ Details   : 48 rows, 63 columns
 <img src="https://github.com/PaoLastHope/BADS7105/blob/db4dd95ec640681cdd3850cac060fc86cca25038/HOMEWORK%2007/images/uu2.PNG">
 
 Reference<br/>
-https://www.datacamp.com/community/tutorials/recommender-systems-python
+https://www.datacamp.com/community/tutorials/recommender-systems-python<br/>
+https://github.com/mrolarik/basic-python/tree/master/python-thai-font-and-plot<br/>
+https://seaborn.pydata.org/generated/seaborn.heatmap.html<br/>
