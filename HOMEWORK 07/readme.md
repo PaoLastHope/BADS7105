@@ -18,10 +18,10 @@ Details   : 48 rows, 63 columns
 - Display the result with network function, red score represent the relation between product.
 - Note that label of product is Thai, need to install Thai font.
 
-<img src="https://github.com/PaoLastHope/BADS7105/blob/7053e994fd8fe3f64a15e2f97885e77c0f9e6c17/HOMEWORK%2007/images/it2.png">
-<img src="https://github.com/PaoLastHope/BADS7105/blob/7053e994fd8fe3f64a15e2f97885e77c0f9e6c17/HOMEWORK%2007/images/it3.png">
-<img src="https://github.com/PaoLastHope/BADS7105/blob/7053e994fd8fe3f64a15e2f97885e77c0f9e6c17/HOMEWORK%2007/images/t35.PNG">
-<img src="https://github.com/PaoLastHope/BADS7105/blob/7053e994fd8fe3f64a15e2f97885e77c0f9e6c17/HOMEWORK%2007/images/t36.PNG">
+<img width="600" src="https://github.com/PaoLastHope/BADS7105/blob/62f444278886d09e96e66ef36ee5717ccefc69b9/HOMEWORK%2007/images/it2.PNG">
+<img width="600" src="https://github.com/PaoLastHope/BADS7105/blob/7053e994fd8fe3f64a15e2f97885e77c0f9e6c17/HOMEWORK%2007/images/it3.png">
+<img width="600" src="https://github.com/PaoLastHope/BADS7105/blob/62f444278886d09e96e66ef36ee5717ccefc69b9/HOMEWORK%2007/images/t35.PNG">
+<img width="600" src="https://github.com/PaoLastHope/BADS7105/blob/62f444278886d09e96e66ef36ee5717ccefc69b9/HOMEWORK%2007/images/t36.PNG">
 <img src="https://github.com/PaoLastHope/BADS7105/blob/7053e994fd8fe3f64a15e2f97885e77c0f9e6c17/HOMEWORK%2007/images/it4.png">
 <img src="https://github.com/PaoLastHope/BADS7105/blob/7053e994fd8fe3f64a15e2f97885e77c0f9e6c17/HOMEWORK%2007/images/it5.png">
 
