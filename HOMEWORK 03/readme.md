@@ -15,10 +15,7 @@ Details   : 732 rows, 8 columns
 
 Display cumulative summation of activities
 
-<p align="left">
-     <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/LgWX2sPZQsE/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 https://user-images.githubusercontent.com/5312356/122250098-94937a80-cef3-11eb-9053-a3be7b64460e.mp4
-</p>
 
 What I've done...
 - using flourish studio tools
