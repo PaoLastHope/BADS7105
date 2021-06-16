@@ -16,8 +16,7 @@ Details   : 732 rows, 8 columns
 Display cumulative summation of activities
 
 <p align="left">
-<img src="https://flourish.studio/images/examples/bar-chart-race.jpg"
-     width="600" height="300" >
+https://user-images.githubusercontent.com/5312356/122250098-94937a80-cef3-11eb-9053-a3be7b64460e.mp4
 </p>
 
 What I've done...
