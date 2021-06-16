@@ -29,7 +29,7 @@ What I've known...
 - from observation, highly rate of changing activity at <b>00:00, 06:00, 08:00, 12:00, 16:00, 18:00, 20:00</b>
 
 <h2>Value Proposition</h2>
-<img width="500" src="https://user-images.githubusercontent.com/5312356/120926002-45846300-c705-11eb-8cc6-d4ac64b15d9f.PNG">
+<img width="600" src="https://github.com/PaoLastHope/BADS7105/blob/f4a6c8b0108cafda4863d78de539b1aee0cd650b/HOMEWORK%2003/images/d3.PNG">
 
 What I've done...
 - do grouping most pain of each member
