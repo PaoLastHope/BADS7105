@@ -2,9 +2,12 @@
 
 <p align="left">
 <img src="https://cdn.iconscout.com/icon/free/png-512/microsoft-excel-2-569282.png"
-     width="100" height="100" ><br>
-Data file : Customer Behaviors (Responses).xlsx <br>
-Details   : 63 rows, 64 columns
+     width="100" height="100" ><br/>
+Data file : Retail_Data_Response.csv <br/>
+Details   : 6885 rows, 2 columns
+
+Data file : Retail_Data_Transactions.csv <br/>
+Details   : 125001 rows, 3 columns
 </p>
 
 <h2>Data Checking</h2>
