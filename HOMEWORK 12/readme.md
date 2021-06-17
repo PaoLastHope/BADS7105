@@ -5,25 +5,36 @@
 - The process of health check up take times
 - Too much patients in hospital
 - Patients feeling that they have not get a good services from hospital
-- They're not appreciate to talk to each other
+- Sometime, they're not appreciate to talking to each other
+- Possible of misdiagnose
 - etc...
 
-<b>Allow me to present</b> <h2>Smart Home Diagnose</h2>
-- Self service 
+<h2>Kawaii CureChecker AI</h2>
+- Allow me to introduce a self service diagnose innovation, you can directly checkup your health with this device.
 - Beautiful virtual charactor making you feel good to do communitation.
-- Software as a service (SaaS), with smart <b>AI enabled</b>
+- Direct connect with digital medical checkup tools. Precious, reliable and informative feedback.
+- Uses algorithms to diagnose and treat illness.
 
 <b>Features</b>
-- 
+- Using <b>AI-enabled</b> technology to compute the possibility of causes and disease.
+- Chat-bot perform communication with user
+- Provide Human–computer interaction(HCI) to support user experience 
+- Guidline for user about correct care based on its daignosis.
+
+<b>Input</b>
+
+<b>Output</b>
 
 
-<b>Service with AI enabled</b>
-- Using AI technology to compute the possibities of causes and disease.
-- 
-- 
+<b>Funtions and Machine Learning Mechanism</b>
+- Predictive analytics, to analyze illness from all collecting data
+- Find similarities between users and database, for more compare information 
+- Discovery insights from user journey
+
 
 References
 Machine Learning in Mental Health: A Systematic Review of the HCI Literature to Support the Development of Effective and Implementable ML Systems<br/>
 https://dl.acm.org/doi/10.1145/3398069 <br/>
 Saya virtural project <br/>
 http://www.sayaproject.com/ <br/>
+https://builtin.com/artificial-intelligence/artificial-intelligence-healthcare
