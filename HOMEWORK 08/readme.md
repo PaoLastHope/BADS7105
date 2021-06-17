@@ -1,7 +1,10 @@
 <h1>Campaign Response Model</h1>
 
 <p align="left">
-<img width="100" alt="1" src="https://cdn-images-1.medium.com/max/1600/1*FogMIj4gYwp3fTHLZuwavQ.png">
+<img src="https://cdn.iconscout.com/icon/free/png-512/microsoft-excel-2-569282.png"
+     width="100" height="100" ><br>
+Data file : Customer Behaviors (Responses).xlsx <br>
+Details   : 63 rows, 64 columns
 </p>
 
 <h2>Data Checking</h2>
