@@ -12,24 +12,50 @@ Details   : 125001 rows, 3 columns
 
 <b>Data Checking</b>
 
+<img widte="450" src="https://github.com/PaoLastHope/BADS7105/blob/4440ebe452a82ef378454d4d71c1d712c3bb99ed/HOMEWORK%2008/images/1.PNG">
+<img widte="450" src="https://github.com/PaoLastHope/BADS7105/blob/4440ebe452a82ef378454d4d71c1d712c3bb99ed/HOMEWORK%2008/images/2.PNG">
 
 <b>Data Preparetion</b>
 
 - Calculate value of recency, frequency, monetary_value, AOU andticket_size
 - Perform data imbalance with SMOTE 
 
+<img widte="450" src="https://github.com/PaoLastHope/BADS7105/blob/4440ebe452a82ef378454d4d71c1d712c3bb99ed/HOMEWORK%2008/images/3.PNG">
+
 <b>Visualization</b>
 
+<img widte="450" src="https://github.com/PaoLastHope/BADS7105/blob/4440ebe452a82ef378454d4d71c1d712c3bb99ed/HOMEWORK%2008/images/4.PNG">
+<img widte="450" src="https://github.com/PaoLastHope/BADS7105/blob/4440ebe452a82ef378454d4d71c1d712c3bb99ed/HOMEWORK%2008/images/5.PNG">
+<img widte="450" src="https://github.com/PaoLastHope/BADS7105/blob/4440ebe452a82ef378454d4d71c1d712c3bb99ed/HOMEWORK%2008/images/6.PNG">
 
-<b>Process ML - SVM with RMF and CLV</b>
+<b>Process ML - SVM </b>
+
+- Running with SVM RFM
+<img src="https://github.com/PaoLastHope/BADS7105/blob/4440ebe452a82ef378454d4d71c1d712c3bb99ed/HOMEWORK%2008/images/svm1.PNG">
+
+- Running with SVM CLV
+<img src="https://github.com/PaoLastHope/BADS7105/blob/4440ebe452a82ef378454d4d71c1d712c3bb99ed/HOMEWORK%2008/images/svm2.PNG">
 
 <b>Process ML - Logistic Regression with RMF and CLV</b>
 
+- Running with LR RFM
+<img src="https://github.com/PaoLastHope/BADS7105/blob/4440ebe452a82ef378454d4d71c1d712c3bb99ed/HOMEWORK%2008/images/log1.PNG">
+- Running with LR CLV
+<img src="https://github.com/PaoLastHope/BADS7105/blob/4440ebe452a82ef378454d4d71c1d712c3bb99ed/HOMEWORK%2008/images/log2.PNG">
+
 <b>Process ML - XGBoost with RMF and CLV</b>
 
+- Running with XGBoost RFM
+- Running with XGBoost CLV
+- Running with XGBoost Tuning
+
+<img src="https://github.com/PaoLastHope/BADS7105/blob/4440ebe452a82ef378454d4d71c1d712c3bb99ed/HOMEWORK%2008/images/xg1.PNG">
+<img src="https://github.com/PaoLastHope/BADS7105/blob/4440ebe452a82ef378454d4d71c1d712c3bb99ed/HOMEWORK%2008/images/xg2.PNG">
+<img src="https://github.com/PaoLastHope/BADS7105/blob/4440ebe452a82ef378454d4d71c1d712c3bb99ed/HOMEWORK%2008/images/xg3.PNG">
 
 <b>Best Model</b>
 
+<img src="https://github.com/PaoLastHope/BADS7105/blob/4440ebe452a82ef378454d4d71c1d712c3bb99ed/HOMEWORK%2008/images/7.PNG">
 
 
 
