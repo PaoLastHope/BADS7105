@@ -13,12 +13,22 @@ Details   : 125001 rows, 3 columns
 <h2>Data Checking</h2>
 
 
+<h2>Data Preparetion</h2>
+
+- Calculate value of recency, frequency, monetary_value, AOU andticket_size
+- Perform data imbalance with SMOTE 
+
+<h2>Visualization</h2>
 
 
+<h2>Process ML - SVM with RMF and CLV</h2>
+
+<h2>Process ML - Logistic Regression with RMF and CLV</h2>
+
+<h2>Process ML - XGBoost with RMF and CLV</h2>
 
 
-
-
+<h2>Best Model</h2>
 
 
 
