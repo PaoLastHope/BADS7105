@@ -10,25 +10,25 @@ Data file : Retail_Data_Transactions.csv <br/>
 Details   : 125001 rows, 3 columns
 </p>
 
-<h2>Data Checking</h2>
+<b>Data Checking</b>
 
 
-<h2>Data Preparetion</h2>
+<b>Data Preparetion</b>
 
 - Calculate value of recency, frequency, monetary_value, AOU andticket_size
 - Perform data imbalance with SMOTE 
 
-<h2>Visualization</h2>
+<b>Visualization</b>
 
 
-<h2>Process ML - SVM with RMF and CLV</h2>
+<b>Process ML - SVM with RMF and CLV</b>
 
-<h2>Process ML - Logistic Regression with RMF and CLV</h2>
+<b>Process ML - Logistic Regression with RMF and CLV</b>
 
-<h2>Process ML - XGBoost with RMF and CLV</h2>
+<b>Process ML - XGBoost with RMF and CLV</b>
 
 
-<h2>Best Model</h2>
+<b>Best Model</b>
 
 
 
@@ -37,6 +37,8 @@ Details   : 125001 rows, 3 columns
 Reference
 <p align="left">
 <img width="200" alt="1" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png">
-<br />
-Sources: https://www.kaggle.com/regivm/retailtransactiondata  
 </p>
+https://www.kaggle.com/regivm/retailtransactiondata <br/>
+https://www.datacamp.com/community/tutorials/svm-classification-scikit-learn-python <br/>
+https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8<br/>
+https://www.datacamp.com/community/tutorials/xgboost-in-python
