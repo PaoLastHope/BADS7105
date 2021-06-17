@@ -6,4 +6,3 @@
 Data file : Customer Behaviors (Responses).xlsx <br>
 Details   : 63 rows, 64 columns
 </p>
-<br>
