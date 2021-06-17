@@ -1,5 +1,7 @@
 <h1>Design Thinking</h1>
 
+<img src="https://github.com/PaoLastHope/BADS7105/blob/64be25c1643e5405c907e8d10aa4a943dfb43177/HOMEWORK%2012/images/1.jpg">
+
 <b>Classify problems</b>
 - Docters have less time to take care each patients
 - The process of health check up take times
@@ -33,8 +35,10 @@
 
 
 References
+
+<img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/64be25c1643e5405c907e8d10aa4a943dfb43177/HOMEWORK%2012/images/saya.png">
+
+Saya virtural project : http://www.sayaproject.com/ <br/>
 Machine Learning in Mental Health: A Systematic Review of the HCI Literature to Support the Development of Effective and Implementable ML Systems<br/>
 https://dl.acm.org/doi/10.1145/3398069 <br/>
-Saya virtural project <br/>
-http://www.sayaproject.com/ <br/>
-https://builtin.com/artificial-intelligence/artificial-intelligence-healthcare
+https://builtin.com/artificial-intelligence/artificial-intelligence-healthcare<br/>
