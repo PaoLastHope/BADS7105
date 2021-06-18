@@ -48,15 +48,18 @@ Details   : 63 rows, 64 columns
 
 <img width="800" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/7.PNG">
 
-- Total correlation with Top rank and Bottome Rank score
+- Total correlation mapping
+- Sorting score, top 5 and bottom 5 rank
 <img width="700" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/8mf.png">
 <img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/11tb.PNG">
 
-- Male correlation with Top rank and Bottome Rank score
+- Male correlation mapping
+- Sorting score, top 5 and bottom 5 rank
 <img width="700" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/9m.png">
 <img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/12tb.PNG">
      
-- Female correlation with Top rank and Bottome Rank score
+- Female correlation mapping
+- Sorting score, top 5 and bottom 5 rank
 <img width="700" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/10f.png">
 <img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/13tb.PNG">
 
