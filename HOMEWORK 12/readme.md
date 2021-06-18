@@ -12,6 +12,7 @@
 - etc...
 
 <h2>Kawaii CureChecker AI</h2>
+
 - Allow me to introduce a self service diagnose innovation, you can directly checkup your health with this device.
 - Beautiful virtual charactor making you feel good to do communitation.
 - Direct connect with digital medical checkup tools. Precious, reliable and informative feedback.
