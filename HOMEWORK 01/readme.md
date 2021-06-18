@@ -10,21 +10,40 @@ Details   : 63 rows, 64 columns
 <b>Data Checking</b>
 
 
-     
 <b>Data Cleasing and Preparetion</b>
 
-- Replace long text to short text such as 'คุณมีความสนใจในสิ่งเหล่านี้มากน้อยเพียงใด' -> Interest 
-- Replace long text to short text such as 'คุณบริโภคสิ่งเหล่านี้บ่อยขนาดไหน' -> Consume
-- New 'Age' column by calculate from birthday, also check year 'พศ' -> 'คศ'
-     
-     
-<b>Data Cleasing and Preparetion</b>
+- Data contain Thai language, need to install Thai font
+- Edit column text 'คุณมีความสนใจในสิ่งเหล่านี้มากน้อยเพียงใด' -> Interest 
+- Edit column text 'คุณบริโภคสิ่งเหล่านี้บ่อยขนาดไหน' -> Consume
+- Edit gender 'ชาย' -> 'M' and 'หญิง' -> 'F'
+- New 'Age' column by calculate from birthday, also check year conversion 'พศ' -> 'คศ'
+- Drop record that sex is 'ไม่ต้องการระบุ'. For more accuracy data, we should not provide this option  
+ 
+<b>Frequency plot of Interesting</b>
+
+- Sum categorical data of each column(index 0-30), then convert into matrix form
+- Using heatmap function to visualize matrix data
+- Convert text to weight score 'ไม่สนใจอย่างมากที่สุด', 'ไม่สนใจอย่างมาก', 'ไม่สนใจ', 'เฉยๆ', 'สนใจ', 'สนใจอย่างมาก', 'สนใจอย่างมากที่สุด'
+- Categorize data with scale
+
+<b>Frequency plot of Consume</b>
+
+- Sum categorical data of each column(index 30-60), then convert into matrix form
+- Using heatmap function to visualize matrix data
+- Convert text to weight score 'ไม่สนใจอย่างมากที่สุด', 'ไม่สนใจอย่างมาก', 'ไม่สนใจ', 'เฉยๆ', 'สนใจ', 'สนใจอย่างมาก', 'สนใจอย่างมากที่สุด'
+- Categorize data with scale
+
+<b>Correlation of Interesting</b>
 
 
-<b>Data Cleasing and Preparetion</b>
+<b>Correlation of Consume</b>
 
 
 
+<b>Interest topic analysis</b>
 
+- Tokenize words from question of interesting column
+- Do word count using WordClound, this is required to install Thai font
+- From counting result, most frequency word are <b>สัตว์เลี้ยง, รถยนต์, กีฬา, เทคโนโลยี and ฟุตบอล</b> 
 
 Reference
