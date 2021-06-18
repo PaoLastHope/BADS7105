@@ -71,4 +71,4 @@ https://hackernoon.com/how-to-perform-emotion-detection-in-text-via-python-lk383
 https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/<br/>
 https://towardsdatascience.com/end-to-end-topic-modeling-in-python-latent-dirichlet-allocation-lda-35ce4ed6b3e0<br/>
 https://cloud.google.com/translate/docs/basic/translating-text#translate_translate_text-python<br/>
-https://gist.github.com/korakot/9d7f5db632351dc92607fdec72a4953f<br/>
+https://gist.github.com/korakot/9d7f5db632351dc92607fdec72a4953f<br/> 
