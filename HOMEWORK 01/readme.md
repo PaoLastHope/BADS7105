@@ -27,15 +27,18 @@ Details   : 63 rows, 64 columns
  
 <b>Frequency Data</b>
 
-- Sum categorical data of each column(index 0-30), then convert data into matrix form
-- Using heatmap function to visualize matrix data
+- Sum categorical data of each colum. Index 0-30 is Interest, Index 31-60 is Consuming. 
+- Convert data into matrix form
+- Using heatmap function to visualize data from matrix data
      
 <img width="700" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/4.PNG">
      
-- Interest Topic Frequency, we can see how much users choose their interesting topics. Also compare between Male and Female number
+- Interest Topic Frequency
+- We can see how much users choose their interesting topics. Also, compare number between Male and Female 
 <img width="700" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/5.png">
   
-- Consume Topic Frequency, we can see how much users choose their Consume topics. Also compare between Male and Female number
+- Consume Topic Frequency
+- We can see how much users choose their Consume topics. Also, compare between Male and Female
 <img width="700" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/6.png">
      
 <b>Correlation</b>
