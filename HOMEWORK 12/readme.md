@@ -17,6 +17,8 @@
 - Direct connect with digital medical checkup tools. Precious, reliable and informative feedback.
 - Uses algorithms to diagnose and treat illness.
 
+<img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/2fe4c5e12ca879a325fb62ed10c88adb326274d4/HOMEWORK%2012/images/Slide1.PNG">
+
 <b>Features</b>
 - Using <b>AI-enabled</b> technology to compute the possibility of causes and disease.
 - Chat-bot perform communication with user
@@ -25,8 +27,11 @@
 
 <b>Input</b>
 
+<img width="600" src="https://github.com/PaoLastHope/BADS7105/blob/2fe4c5e12ca879a325fb62ed10c88adb326274d4/HOMEWORK%2012/images/Slide2.PNG">
+
 <b>Output</b>
 
+<img width="600" src="https://github.com/PaoLastHope/BADS7105/blob/2fe4c5e12ca879a325fb62ed10c88adb326274d4/HOMEWORK%2012/images/Slide3.PNG">
 
 <b>Funtions and Machine Learning Mechanism</b>
 - Predictive analytics, to analyze illness from all collecting data
@@ -38,8 +43,8 @@
 
 References
 
-<img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/64be25c1643e5405c907e8d10aa4a943dfb43177/HOMEWORK%2012/images/saya.png">
+<img width="600" src="https://github.com/PaoLastHope/BADS7105/blob/64be25c1643e5405c907e8d10aa4a943dfb43177/HOMEWORK%2012/images/saya.png">
 Saya virtural project : http://www.sayaproject.com/ <br/>
-Machine Learning in Mental Health: A Systematic Review of the HCI Literature to Support the Development of Effective and Implementable ML Systems<br/>
+Machine Learning in Mental Health: A Systematic Review of the HCI Literature to Support the Development<br/>
 https://dl.acm.org/doi/10.1145/3398069 <br/>
 https://builtin.com/artificial-intelligence/artificial-intelligence-healthcare<br/>
