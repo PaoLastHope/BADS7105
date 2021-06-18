@@ -9,7 +9,7 @@ Details   : 63 rows, 64 columns
 
 <b>Data Checking</b>
 
-<img width="700" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/1.PNG">
+<img width="800" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/1.PNG">
 
 <b>Data Cleasing and Preparetion</b>
 
@@ -43,19 +43,19 @@ Details   : 63 rows, 64 columns
 - Convert categorical data into scale 'ไม่สนใจอย่างมากที่สุด' -> 1, ..., 'สนใจอย่างมากที่สุด' -> 7
 - Convert categorical data into scale 'แทบไม่ได้บริโภคเลย' -> 1, ..., 'แทบทุกวัน' -> 6
 
-<img width="700" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/7.PNG">
+<img width="800" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/7.PNG">
 
 - All Correlation with Top rank and Bottome Rank score
 <img width="700" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/8mf.png">
-<img width="700" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/11tb.PNG">
+<img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/11tb.PNG">
 
 - Male Correlation with Top rank and Bottome Rank score
 <img width="700" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/9m.png">
-<img width="700" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/12tb.PNG">
+<img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/12tb.PNG">
      
 - Display Top rank and Bottome Rank score
-<img width="700" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/10f.PNG">
-<img width="700" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/13tb.png">
+<img width="700" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/10f.png">
+<img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/13tb.PNG">
 
 <b>Interest topic analysis</b>
 
@@ -63,8 +63,8 @@ Details   : 63 rows, 64 columns
 - Do word count using WordClound, this is required to install Thai font
 
 <img src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/wc1.PNG">
-<img src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/wcc2.png">
+<img width="600" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/wcc2.png">
      
 - From counting result, most frequency word are <b>'สัตว์เลี้ยง', 'รถยนต์', 'กีฬา', 'เทคโนโลยี' and 'ฟุตบอล'</b> 
 
-Reference
+Reference <br/>
