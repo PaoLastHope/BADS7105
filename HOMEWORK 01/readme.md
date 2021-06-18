@@ -6,3 +6,25 @@
 Data file : Customer Behaviors (Responses).xlsx <br>
 Details   : 63 rows, 64 columns
 </p>
+
+<b>Data Checking</b>
+
+
+     
+<b>Data Cleasing and Preparetion</b>
+
+- Replace long text to short text such as 'คุณมีความสนใจในสิ่งเหล่านี้มากน้อยเพียงใด' -> Interest 
+- Replace long text to short text such as 'คุณบริโภคสิ่งเหล่านี้บ่อยขนาดไหน' -> Consume
+- New 'Age' column by calculate from birthday, also check year 'พศ' -> 'คศ'
+     
+     
+<b>Data Cleasing and Preparetion</b>
+
+
+<b>Data Cleasing and Preparetion</b>
+
+
+
+
+
+Reference
