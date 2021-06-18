@@ -45,15 +45,15 @@ Details   : 63 rows, 64 columns
 
 <img width="800" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/7.PNG">
 
-- All Correlation with Top rank and Bottome Rank score
+- Total correlation with Top rank and Bottome Rank score
 <img width="700" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/8mf.png">
 <img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/11tb.PNG">
 
-- Male Correlation with Top rank and Bottome Rank score
+- Male correlation with Top rank and Bottome Rank score
 <img width="700" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/9m.png">
 <img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/12tb.PNG">
      
-- Display Top rank and Bottome Rank score
+- Female correlation with Top rank and Bottome Rank score
 <img width="700" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/10f.png">
 <img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/13tb.PNG">
 
@@ -61,10 +61,11 @@ Details   : 63 rows, 64 columns
 
 - Tokenize words from question of interesting column
 - Do word count using WordClound, this is required to install Thai font
+- From counting result, most frequency word are <b>'สัตว์เลี้ยง', 'รถยนต์', 'กีฬา', 'เทคโนโลยี' and 'ฟุตบอล'</b> 
 
 <img src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/wc1.PNG">
 <img width="600" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/wcc2.png">
-     
-- From counting result, most frequency word are <b>'สัตว์เลี้ยง', 'รถยนต์', 'กีฬา', 'เทคโนโลยี' and 'ฟุตบอล'</b> 
 
 Reference <br/>
+https://www.python-graph-gallery.com/92-control-color-in-seaborn-heatmaps<br/>
+https://towardsdatascience.com/better-heatmaps-and-correlation-matrix-plots-in-python-41445d0f2bec<br/>
