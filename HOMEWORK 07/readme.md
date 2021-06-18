@@ -22,7 +22,7 @@ Details   : 48 rows, 63 columns
 <img width="600" src="https://github.com/PaoLastHope/BADS7105/blob/7053e994fd8fe3f64a15e2f97885e77c0f9e6c17/HOMEWORK%2007/images/it3.png">
 <img width="600" src="https://github.com/PaoLastHope/BADS7105/blob/62f444278886d09e96e66ef36ee5717ccefc69b9/HOMEWORK%2007/images/t35.PNG">
 <img width="600" src="https://github.com/PaoLastHope/BADS7105/blob/62f444278886d09e96e66ef36ee5717ccefc69b9/HOMEWORK%2007/images/t36.PNG">
-<img src="https://github.com/PaoLastHope/BADS7105/blob/7053e994fd8fe3f64a15e2f97885e77c0f9e6c17/HOMEWORK%2007/images/it4n.png">
+<img src="https://github.com/PaoLastHope/BADS7105/blob/4bb1ba4a2d980deffbe0141623ffd03feda6cc29/HOMEWORK%2007/images/it4n.png">
 <img src="https://github.com/PaoLastHope/BADS7105/blob/7053e994fd8fe3f64a15e2f97885e77c0f9e6c17/HOMEWORK%2007/images/it5.png">
 
 <h2>User - User based</h2>
@@ -32,7 +32,7 @@ Details   : 48 rows, 63 columns
 - Now, we can recommend the product to the anoter users which likely to buy the same item.
 
 <img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/db4dd95ec640681cdd3850cac060fc86cca25038/HOMEWORK%2007/images/uu1.PNG">
-<img src="https://github.com/PaoLastHope/BADS7105/blob/db4dd95ec640681cdd3850cac060fc86cca25038/HOMEWORK%2007/images/uu3n.png">
+<img src="https://github.com/PaoLastHope/BADS7105/blob/4bb1ba4a2d980deffbe0141623ffd03feda6cc29/HOMEWORK%2007/images/uu3n.png">
 <img src="https://github.com/PaoLastHope/BADS7105/blob/db4dd95ec640681cdd3850cac060fc86cca25038/HOMEWORK%2007/images/uu2.PNG">
 
 Reference<br/>
