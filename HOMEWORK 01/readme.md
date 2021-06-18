@@ -9,7 +9,7 @@ Details   : 63 rows, 64 columns
 
 <b>Data Checking</b>
 
-
+<img src="">
 <b>Data Cleasing and Preparetion</b>
 
 - Data contain Thai language, need to install Thai font
