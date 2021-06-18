@@ -9,7 +9,8 @@ Details   : 63 rows, 64 columns
 
 <b>Data Checking</b>
 
-<img src="">
+<img src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/1.PNG">
+
 <b>Data Cleasing and Preparetion</b>
 
 - Data contain Thai language, need to install Thai font
@@ -19,25 +20,45 @@ Details   : 63 rows, 64 columns
 - New 'Age' column by calculate from birthday, also check year conversion 'พศ' -> 'คศ'
 - Drop record that sex is 'ไม่ต้องการระบุ'. For more accuracy data, we should not provide this option 
  
-<b>Frequency plot of Interesting</b>
+ <img src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/2.PNG">
+ <img src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/3.PNG">
+ 
+<b>Frequency Data</b>
 
 - Sum categorical data of each column(index 0-30), then convert data into matrix form
 - Using heatmap function to visualize matrix data
-
-<b>Frequency plot of Consume</b>
-
-- Sum categorical data of each column(index 30-60), then convert data into matrix form
-- Using heatmap function to visualize matrix data
-
-
-<b>Correlation of Interesting</b>
+     
+<img src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/4.PNG">
+     
+- Interest Topic Frequency
+<img src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/5.PNG">
+  
+- Consume Topic Frequency
+<img src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/6.PNG">
+ 
+- Now, we can see how much users choose their interesting topics. Also compare between Male and Female number
+     
+<b>Correlation/b>
 
 - Convert categorical data into scale 'ไม่สนใจอย่างมากที่สุด' -> 1, ..., 'สนใจอย่างมากที่สุด' -> 7
-- 
-
-<b>Correlation of Consume</b>
-
 - Convert categorical data into scale 'แทบไม่ได้บริโภคเลย' -> 1, ..., 'แทบทุกวัน' -> 6
+
+<img src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/7.PNG">
+
+- All Correlation with Top rank and Bottome Rank score
+<img src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/8mf.PNG">
+     
+- Male Correlation with Top rank and Bottome Rank score
+<img src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/9m.PNG">
+<img src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/11tb.PNG">
+     
+- Female Correlation Top rank and Bottome Rank score
+<img src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/10f.PNG">
+<img src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/12tb.PNG">
+     
+- Display Top rank and Bottome Rank score
+<img src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/10f.PNG">
+<img src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/13tb.PNG">
 
 <b>Interest topic analysis</b>
 
