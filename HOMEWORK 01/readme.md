@@ -9,7 +9,7 @@ Details   : 63 rows, 64 columns
 
 <b>Data Checking</b>
 
-<img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/1.PNG">
+<img width="600" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/1.PNG">
 
 <b>Data Cleasing and Preparetion</b>
 
@@ -20,8 +20,8 @@ Details   : 63 rows, 64 columns
 - New 'Age' column by calculate from birthday, also check year conversion 'พศ' -> 'คศ'
 - Drop record that sex is 'ไม่ต้องการระบุ'. For more accuracy data, we should not provide this option 
  
- <img src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/2.PNG">
- <img src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/3.PNG">
+ <img width="300" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/2.PNG">
+ <img width="300" src="https://github.com/PaoLastHope/BADS7105/blob/5d27ae9de85c26c39c4a902ec475effa31bfb96b/HOMEWORK%2001/images/3.PNG">
  
 <b>Frequency Data</b>
 
