@@ -32,8 +32,9 @@
 - Predictive analytics, to analyze illness from all collecting data
 - Find similarities between users and database, for more compare information 
 - Discovery insights from user journey
-
-
+- Connect to hospital or clinic database
+- Connect to medicine database
+- Additional technology can be added into this system
 
 References
 
