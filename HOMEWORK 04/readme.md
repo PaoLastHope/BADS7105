@@ -6,3 +6,4 @@
 <img src="https://github.com/PaoLastHope/BADS7105/blob/cda0338be9200898f98c803952299c6511b3c165/HOMEWORK%2004/images/Slide3.PNG">
 <h2>Apply data analytic into journey</h2>
 <img src="https://github.com/PaoLastHope/BADS7105/blob/cda0338be9200898f98c803952299c6511b3c165/HOMEWORK%2004/images/Slide4.PNG">
+ 
