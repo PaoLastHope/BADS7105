@@ -44,7 +44,7 @@ group by shop_year;
 
 - Display Customer Lite Time Value using Google Data Studio 
 
-<img src="https://github.com/PaoLastHope/BADS7105/blob/7138c70a044db016bfd5aba649f9e50fa1da67ad/HOMEWORK%2005/images/gds.PNG">
+<img width="700" src="https://github.com/PaoLastHope/BADS7105/blob/7138c70a044db016bfd5aba649f9e50fa1da67ad/HOMEWORK%2005/images/gds.PNG">
 
 <h2>Dashboard</h2>
 We can display the variety of data using dashboard tool
