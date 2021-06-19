@@ -18,7 +18,7 @@ Prepare data
 - Connect data from Google Cloud Storage, now we can do query.
 
 <b>Customer Lifetime Value Formulas</b>
-
+<img src="">
 <pre>
   <code>
 select 
