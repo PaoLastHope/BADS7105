@@ -17,6 +17,16 @@ Prepare data
 - Import data file into Google Cloud Storage 
 - Connect data from Google Cloud Storage, now we can do query.
 
+<b>Logic</b>
+- Retrieve customer data only customer with code, otherwise we cannot track the customer(not get null).
+- Count the number of customer in each period of week (7 days)
+- Compare customer apperance from last period using SQL function LAG()
+- Set status of customer. Not found -> New customer
+- Set status of customer. Less than 7 days -> Repeat customer
+- Set status of customer. More than 7 days -> Return customer
+- Compare again Repeat customer againg with another periods to find Churn customer
+- Explore result with Google Data Studio
+
 SQL Query to calculate customer movement
 <pre>
 <code>
