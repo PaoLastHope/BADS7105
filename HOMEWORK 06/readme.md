@@ -104,7 +104,7 @@ For roughly choosing, we can choose k = 4. At this point, we can see most custom
 For K = 8, cluster 0 1 start overlapping. Then, recommend to choose <b>k = 7</b> for deeply focusing on customer's visit or value. <br/>
 Also, technically, we can grouping back to k = 4 
 
-Finally, we can export the list of customers which according to the group of segmentation.
+Finally, we can export the list of customers which according to the group of segmentation for the teams.
 
 For further customer segmentation, we can analyze in the way such as 
 - Priori based
