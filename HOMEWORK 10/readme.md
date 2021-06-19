@@ -24,7 +24,7 @@ Prepare data
 - Set status of customer. Not found -> New customer
 - Set status of customer. Less than 7 days -> Repeat customer
 - Set status of customer. More than 7 days -> Return customer
-- Compare again Repeat customer againg with another periods to find Churn customer
+- Compare Repeat customer againg with another periods. Not found -> Churn customer
 - Explore result with Google Data Studio
 
 SQL Query to calculate customer movement
