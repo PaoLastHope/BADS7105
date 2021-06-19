@@ -12,6 +12,12 @@ Details   : 956,575 rows, 22 columns, 132,537 KB  ( Sample Data, not the actual)
 </p>
 <br/>
 
+Prepare data
+- A simple process for these scenarios using Google BigQuery ML and DataStudio
+- Import data file into Google Cloud Storage 
+- Connect data from Google Cloud Storage, now we can do query.
+
+SQL Query to calculate customer movement
 <pre>
 <code>
 SELECT
