@@ -59,7 +59,7 @@ FROM (
       ) AS RETURN_CUST,
     COUNT(CC) AS TOT_C
   FROM (
-    SELECT
+    SELECT 
       PRE_W,
       CUR_W,
       CC,
