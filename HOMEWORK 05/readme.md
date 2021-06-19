@@ -43,7 +43,8 @@ group by shop_year;
 </pre>
 
 - Display Customer Lite Time Value using Google Data Studio 
-
+- Customer code contain NULL value, this mean we need to assign customer code. To get correct couting number
+- Fixed churn rate percentage with 1. This value is various depend on each customer.
 <img width="700" src="https://github.com/PaoLastHope/BADS7105/blob/7138c70a044db016bfd5aba649f9e50fa1da67ad/HOMEWORK%2005/images/gds.PNG">
 
 <h2>Dashboard</h2>
