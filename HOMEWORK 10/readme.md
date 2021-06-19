@@ -81,9 +81,12 @@ ORDER BY
   WEEK ASC;
 </code>
 </pre>
+
+<h2>Display using Google Data Studio</>
+Compare the number between each status of customer in period of week.
 <img src="https://github.com/PaoLastHope/BADS7105/blob/84f3463117404556d6771e26ed7b785904bd62d1/HOMEWORK%2010/images/churn1.PNG">
 <img src="https://github.com/PaoLastHope/BADS7105/blob/84f3463117404556d6771e26ed7b785904bd62d1/HOMEWORK%2010/images/churn2.PNG">
-<img src="https://github.com/PaoLastHope/BADS7105/blob/84f3463117404556d6771e26ed7b785904bd62d1/HOMEWORK%2010/images/churn3.PNG">
+<img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/84f3463117404556d6771e26ed7b785904bd62d1/HOMEWORK%2010/images/churn3.PNG">
 
 Reference<br/>
 https://www.dunnhumby.com/source-files/<br/>
