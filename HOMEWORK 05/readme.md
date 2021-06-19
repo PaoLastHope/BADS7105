@@ -52,30 +52,37 @@ We can display the variety of data using dashboard tool
 By Power BI, connect and load data from Google BigQuery
 <img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/958ee592cc36702270b4cda2ea6f5c2f657ee746/HOMEWORK%2005/images/bicon.PNG">
 
-- Basket
+- <b>Basket</b>
+- Show basket size, dominant and sensitivity in each year
 <p align='left'>
 <img width="300" src="https://github.com/PaoLastHope/BADS7105/blob/7361825da079e2b0578867801755cd1b023babf0/HOMEWORK%2005/images/bas1.PNG">
 <img width="300" src="https://github.com/PaoLastHope/BADS7105/blob/7361825da079e2b0578867801755cd1b023babf0/HOMEWORK%2005/images/bas2.PNG">
 <img width="300" src="https://github.com/PaoLastHope/BADS7105/blob/7361825da079e2b0578867801755cd1b023babf0/HOMEWORK%2005/images/bas3.PNG">
 </p>
 
-- Customer
+- <b>Customer</b>
+- Show comparison of each lifestage
+- Show customer who spend the most
 <p align='left'>
 <img width="300" src="https://github.com/PaoLastHope/BADS7105/blob/7361825da079e2b0578867801755cd1b023babf0/HOMEWORK%2005/images/cus1.PNG">
 <img width="300" src="https://github.com/PaoLastHope/BADS7105/blob/7361825da079e2b0578867801755cd1b023babf0/HOMEWORK%2005/images/cus2.PNG">
 </p>
 
-- Product
+- <b>Product</b>
+- Show sales of product, highest sorting in each year
 <img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/7361825da079e2b0578867801755cd1b023babf0/HOMEWORK%2005/images/prod1.PNG">
 
-- Store
+- <b>Store</b>
+- Show sales in each store
+- Show customer lifestage enter in each store
 <p align='left'> 
 <img width="300" src="https://github.com/PaoLastHope/BADS7105/blob/7361825da079e2b0578867801755cd1b023babf0/HOMEWORK%2005/images/sto1.PNG">
 <img width="300" src="https://github.com/PaoLastHope/BADS7105/blob/7361825da079e2b0578867801755cd1b023babf0/HOMEWORK%2005/images/sto2.PNG">
 <img width="300" src="https://github.com/PaoLastHope/BADS7105/blob/7361825da079e2b0578867801755cd1b023babf0/HOMEWORK%2005/images/sto3.PNG">
 </p>
 
-- Transaction
+- <b>Transaction</b>
+- Show period and date of transactions appear in system
 <img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/7361825da079e2b0578867801755cd1b023babf0/HOMEWORK%2005/images/tran1.PNG">
 <img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/7361825da079e2b0578867801755cd1b023babf0/HOMEWORK%2005/images/tran2.PNG">
      
