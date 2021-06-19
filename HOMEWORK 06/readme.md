@@ -104,19 +104,12 @@ For roughly choosing, we can choose k = 4. At this point, we can see most custom
 For K = 8, cluster 0 1 start overlapping. Then, recommend to choose <b>k = 7</b> for deeply focusing on customer's visit or value. <br/>
 Also, technically, we can grouping back to k = 4 
 
-<b>Proceed Machine Learning Segmentation</b><br/>
+Finally, we can export the list of customers which according to the group of segmentation.
 
-<b>one-time customer</b>
--    priori-based - segment 1
--    value-based - segment 2
--    need-based - segment 3 <br/>
-     
-<b>return customer</b> 
--    priori-based - segment 4
--    value-based - segment 5
--    need-based - segment 6 <br/>
-
-Final result is list of customers on each segmentation
+For further customer segmentation, we can analyze in the way such as 
+- Priori based
+- Value based
+- Needed based
 
 Reference<br/>
 https://www.dunnhumby.com/source-files/<br/>
