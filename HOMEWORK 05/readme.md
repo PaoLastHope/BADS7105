@@ -52,6 +52,27 @@ We can display the variety of data using dashboard tool
 By Power BI, connect and load data from Google BigQuery
 <img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/958ee592cc36702270b4cda2ea6f5c2f657ee746/HOMEWORK%2005/images/bicon.PNG">
 
+- Basket
+<img src="https://github.com/PaoLastHope/BADS7105/blob/958ee592cc36702270b4cda2ea6f5c2f657ee746/HOMEWORK%2005/images/bas1.PNG">
+<img src="https://github.com/PaoLastHope/BADS7105/blob/958ee592cc36702270b4cda2ea6f5c2f657ee746/HOMEWORK%2005/images/bas2.PNG">
+<img src="https://github.com/PaoLastHope/BADS7105/blob/958ee592cc36702270b4cda2ea6f5c2f657ee746/HOMEWORK%2005/images/bas3.PNG">
+
+- Customer
+<img src="https://github.com/PaoLastHope/BADS7105/blob/958ee592cc36702270b4cda2ea6f5c2f657ee746/HOMEWORK%2005/images/cus1.PNG">
+<img src="https://github.com/PaoLastHope/BADS7105/blob/958ee592cc36702270b4cda2ea6f5c2f657ee746/HOMEWORK%2005/images/cus2.PNG">
+
+- Product
+<img src="https://github.com/PaoLastHope/BADS7105/blob/958ee592cc36702270b4cda2ea6f5c2f657ee746/HOMEWORK%2005/images/prod1.PNG">
+
+
+- Store
+<img src="https://github.com/PaoLastHope/BADS7105/blob/958ee592cc36702270b4cda2ea6f5c2f657ee746/HOMEWORK%2005/images/sto1.PNG">
+<img src="https://github.com/PaoLastHope/BADS7105/blob/958ee592cc36702270b4cda2ea6f5c2f657ee746/HOMEWORK%2005/images/sto2.PNG">
+<img src="https://github.com/PaoLastHope/BADS7105/blob/958ee592cc36702270b4cda2ea6f5c2f657ee746/HOMEWORK%2005/images/sto3.PNG">
+
+- Transaction
+<img src="https://github.com/PaoLastHope/BADS7105/blob/958ee592cc36702270b4cda2ea6f5c2f657ee746/HOMEWORK%2005/images/tran1.PNG">
+<img src="https://github.com/PaoLastHope/BADS7105/blob/958ee592cc36702270b4cda2ea6f5c2f657ee746/HOMEWORK%2005/images/tran2.PNG">
 
 Reference<br/>
 https://www.dunnhumby.com/source-files/<br/>
