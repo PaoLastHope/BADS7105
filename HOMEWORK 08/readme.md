@@ -28,7 +28,7 @@ Details   : 125001 rows, 3 columns
 
 <img width="450" src="https://github.com/PaoLastHope/BADS7105/blob/4440ebe452a82ef378454d4d71c1d712c3bb99ed/HOMEWORK%2008/images/4.png">
 <img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/4440ebe452a82ef378454d4d71c1d712c3bb99ed/HOMEWORK%2008/images/5.png">
-<img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/4440ebe452a82ef378454d4d71c1d712c3bb99ed/HOMEWORK%2008/images/6.png">
+<img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/4440ebe452a82ef378454d4d71c1d712c3bb99ed/HOMEWORK%2008/images/6.png"> 
 
 <b>Process ML - SVM </b>
 
