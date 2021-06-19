@@ -18,7 +18,14 @@ Prepare data
 - Connect data from Google Cloud Storage, now we can do query.
 
 <b>Customer Lifetime Value Formulas</b>
-<img src="">
+
+<img width="400" src="https://github.com/PaoLastHope/BADS7105/blob/7ef74a0ac9c9252dbcfebd53d5728f82b1338270/HOMEWORK%2005/images/APFR.PNG">
+<img width="400" src="https://github.com/PaoLastHope/BADS7105/blob/7ef74a0ac9c9252dbcfebd53d5728f82b1338270/HOMEWORK%2005/images/apv.PNG">
+<img width="400" src="https://github.com/PaoLastHope/BADS7105/blob/7ef74a0ac9c9252dbcfebd53d5728f82b1338270/HOMEWORK%2005/images/CV.PNG">
+<img width="400" src="https://github.com/PaoLastHope/BADS7105/blob/7ef74a0ac9c9252dbcfebd53d5728f82b1338270/HOMEWORK%2005/images/ACL.PNG">
+<img width="400" src="https://github.com/PaoLastHope/BADS7105/blob/7ef74a0ac9c9252dbcfebd53d5728f82b1338270/HOMEWORK%2005/images/CLTV.PNG">
+
+- SQL Query in Google BigQuery to retrieve data from source
 <pre>
   <code>
 select 
@@ -33,7 +40,7 @@ group by shop_year;
   </code>
 </pre>
 
-<b>Customer Value</b> 
+- Display Customer Lite Time Value using Google Data Studio 
 
 
 <h2>Dashboard</h2>
