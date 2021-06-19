@@ -7,7 +7,8 @@
 Data file : data_hair.xls
 </p>
 
-<img src="">
+<img src="https://github.com/PaoLastHope/BADS7105/blob/8343386c5a942f121196fb330c7108495fe6d89f/HOMEWORK%2009/images/t1.PNG">
+<img src="https://github.com/PaoLastHope/BADS7105/blob/8343386c5a942f121196fb330c7108495fe6d89f/HOMEWORK%2009/images/s1.PNG">
 
 <h2>Source 2</h2>
 <p align="left">
@@ -15,3 +16,5 @@ Data file : data_hair.xls
 <br />
 Data file : data_makeup.csv
 </p>
+<img src="https://github.com/PaoLastHope/BADS7105/blob/8343386c5a942f121196fb330c7108495fe6d89f/HOMEWORK%2009/images/t2.PNG">
+<img src="https://github.com/PaoLastHope/BADS7105/blob/8343386c5a942f121196fb330c7108495fe6d89f/HOMEWORK%2009/images/s2.PNG">
