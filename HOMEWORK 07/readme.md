@@ -31,7 +31,7 @@ Details   : 48 rows, 63 columns
 - Using <b>cosine similarity</b> and mean score to filter the items
 - Now, we can recommend the product to the anoter users which likely to buy the same item.
 
-<img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/db4dd95ec640681cdd3850cac060fc86cca25038/HOMEWORK%2007/images/uu1.PNG">
+<img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/db4dd95ec640681cdd3850cac060fc86cca25038/HOMEWORK%2007/images/uu1.PNG"> 
 <img src="https://github.com/PaoLastHope/BADS7105/blob/4bb1ba4a2d980deffbe0141623ffd03feda6cc29/HOMEWORK%2007/images/uu3n.png">
 <img src="https://github.com/PaoLastHope/BADS7105/blob/db4dd95ec640681cdd3850cac060fc86cca25038/HOMEWORK%2007/images/uu2.PNG">
 
