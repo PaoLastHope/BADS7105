@@ -43,7 +43,7 @@ Using Power BI to build a dasboard. Load data from Google BigQuery
 
 Reference<br/>
 https://www.dunnhumby.com/source-files/<br/>
-https://cloud.google.com/bigquery/docs/sandbox
-https://thanachart-rit.medium.com/upload-data-to-google-bigquery-using-google-cloud-sdk-set-up-data-environment-with-supermarket-fc144a0ce4d1
-https://blog.hubspot.com/service/how-to-calculate-customer-lifetime-value
-https://www.zaius.com/customer-lifetime-value-cltv/
+https://cloud.google.com/bigquery/docs/sandbox<br/>
+https://thanachart-rit.medium.com/upload-data-to-google-bigquery-using-google-cloud-sdk-set-up-data-environment-with-supermarket-fc144a0ce4d1<br/>
+https://blog.hubspot.com/service/how-to-calculate-customer-lifetime-value<br/>
+https://www.zaius.com/customer-lifetime-value-cltv/<br/>
