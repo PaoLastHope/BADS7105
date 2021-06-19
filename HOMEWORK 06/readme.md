@@ -109,7 +109,7 @@ Finally, we can export the list of customers which according to the group of seg
 For further customer segmentation, we can analyze in the way such as 
 - Priori based
 - Value based
-- Needed based
+- Needed based 
 
 Reference<br/>
 https://www.dunnhumby.com/source-files/<br/>
