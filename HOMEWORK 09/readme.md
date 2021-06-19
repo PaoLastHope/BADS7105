@@ -10,7 +10,7 @@ Data file : data_hair.xls
 <img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/8343386c5a942f121196fb330c7108495fe6d89f/HOMEWORK%2009/images/t1.PNG">
 <img width="200" src="https://github.com/PaoLastHope/BADS7105/blob/8343386c5a942f121196fb330c7108495fe6d89f/HOMEWORK%2009/images/s1.PNG">
 </p>
-<b>A:57 < B:88</>
+<b>A:57 < B:88</b>
 
 <B>Sample Hypothesis</B><br/>
 H0 : Mean of female sample group and male sample that like long hair <b>are not</b> diffelent.<br/>
@@ -30,7 +30,7 @@ Data file : data_makeup.csv
 <p align="left">
 <img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/8343386c5a942f121196fb330c7108495fe6d89f/HOMEWORK%2009/images/t2.PNG">
 <img width="300" src="https://github.com/PaoLastHope/BADS7105/blob/8343386c5a942f121196fb330c7108495fe6d89f/HOMEWORK%2009/images/s2.png">
-<b>A:57 < B:88</>
+<b>A:32 < B:3</b>
 </p>
   
 <B>Sample Hypothesis</B><br/>
