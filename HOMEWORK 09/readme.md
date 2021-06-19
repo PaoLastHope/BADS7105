@@ -6,9 +6,11 @@
 <br />
 Data file : data_hair.xls
 </p>
-
+<p align="left">
 <img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/8343386c5a942f121196fb330c7108495fe6d89f/HOMEWORK%2009/images/t1.PNG">
 <img width="200" src="https://github.com/PaoLastHope/BADS7105/blob/8343386c5a942f121196fb330c7108495fe6d89f/HOMEWORK%2009/images/s1.PNG">
+</p>
+<b>A:57 < B:88</>
 
 <B>Sample Hypothesis</B><br/>
 H0 : Mean of female sample group and male sample that like long hair <b>are not</b> diffelent.<br/>
@@ -25,9 +27,12 @@ H1 : Mean of female sample group and male sample that like long hair <b>are</b> 
 <br />
 Data file : data_makeup.csv
 </p>
+<p align="left">
 <img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/8343386c5a942f121196fb330c7108495fe6d89f/HOMEWORK%2009/images/t2.PNG">
 <img width="300" src="https://github.com/PaoLastHope/BADS7105/blob/8343386c5a942f121196fb330c7108495fe6d89f/HOMEWORK%2009/images/s2.png">
-
+<b>A:57 < B:88</>
+</p>
+  
 <B>Sample Hypothesis</B><br/>
 H0 : Favourite makeup style depends on Age.<br/>
 H1 : Favourite makeup style does not depend on Age.
