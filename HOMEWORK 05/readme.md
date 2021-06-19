@@ -66,7 +66,7 @@ By Power BI, connect and load data from Google BigQuery
 </p>
 
 - Product
-<img width="300" src="https://github.com/PaoLastHope/BADS7105/blob/7361825da079e2b0578867801755cd1b023babf0/HOMEWORK%2005/images/prod1.PNG">
+<img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/7361825da079e2b0578867801755cd1b023babf0/HOMEWORK%2005/images/prod1.PNG">
 
 - Store
 <p align='left'> 
@@ -76,10 +76,8 @@ By Power BI, connect and load data from Google BigQuery
 </p>
 
 - Transaction
-<p align='left'> 
-<img width="300" src="https://github.com/PaoLastHope/BADS7105/blob/7361825da079e2b0578867801755cd1b023babf0/HOMEWORK%2005/images/tran1.PNG">
-<img width="300" src="https://github.com/PaoLastHope/BADS7105/blob/7361825da079e2b0578867801755cd1b023babf0/HOMEWORK%2005/images/tran2.PNG">
-</p>
+<img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/7361825da079e2b0578867801755cd1b023babf0/HOMEWORK%2005/images/tran1.PNG">
+<img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/7361825da079e2b0578867801755cd1b023babf0/HOMEWORK%2005/images/tran2.PNG">
      
 Reference<br/>
 https://www.dunnhumby.com/source-files/<br/>
