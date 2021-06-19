@@ -38,5 +38,5 @@ What I've done...
 - applying with exist real-world application
 
 Reference<br/>
-https://www.helpscout.com/blog/value-proposition-examples/
+https://www.helpscout.com/blog/value-proposition-examples/ 
  
