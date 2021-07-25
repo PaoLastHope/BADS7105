@@ -31,7 +31,7 @@ Data file : CustomerReviews.csv
 
 <img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/9dc4a59c9134e8dcc597744b0c8397cceb2016a6/HOMEWORK%2011/images/co.PNG">
 <img width="500" src="https://github.com/PaoLastHope/BADS7105/blob/fdc30fb1b6d1071140c96f1ab204da67b0bfd1bc/HOMEWORK%2011/images/score.PNG">
-
+ 
 <b>Diplay Topics </b>
 
 <p align="left">
